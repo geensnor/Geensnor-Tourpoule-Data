@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "teamName": {
+        "type": "string",
+        "description": "Name of the cycling team"
+      },
+      "cyclists": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "description": "Name of a cyclist on the team"
+        },
+        "minItems": 1
+      }
+    },
+    "minItems": 1,
+    "required": ["teamName", "cyclists"]
+  }
+}

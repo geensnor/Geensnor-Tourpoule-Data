@@ -1,7 +1,8 @@
 {
   "yaml.schemas": {
     "schemas/stage.json": ["data/**/**/stages/*.yaml"],
-    "schemas/tour.json": ["data/**/**/tourConfig.yaml"]
+    "schemas/tour.json": ["data/**/**/tourConfig.yaml"],
+    "schemas/cyclists.json": ["data/**/**/cyclists.yaml"]
   },
   "redhat.telemetry.enabled": false
 }

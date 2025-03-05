@@ -1,47 +1,46 @@
 {
-    "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "stage.json",
-    "title": "Stage",
-    "description": "A stage in the Geensnor Tourpoule",
-    "type": "object",
-    "properties": {
-        "number": {
-            "description": "Stage number",
-            "type": "integer",
-            "minimum": 1
-        },
-        "route": {
-            "description": "Route description. For example: Eindhoven - Delfzijl",
-            "type": "string"
-        },
-        "date": {
-            "description": "Stage date. Format: YYYY-MM-DD",
-            "type": "string",
-            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
-        },
-        "status": {
-            "description": "Stage status. finished or notStarted.",
-            "enum": ["notStarted", "finished"]
-        },
-        "stageResults": {
-            "description": "Names of cyclists in finished order",
-            "anyOf": [
-              {
-                "type": "null"
-              },
-              {
-                "type": "string",
-                "minLength": 0
-              },
-              {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              }
-            ]
-          }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "stage.json",
+  "title": "Stage",
+  "description": "A stage in the Geensnor Tourpoule",
+  "type": "object",
+  "properties": {
+    "number": {
+      "description": "Stage number",
+      "type": "integer",
+      "minimum": 1
     },
-    "required": ["number", "route", "date", "status"]
-    
+    "route": {
+      "description": "Route description. For example: Eindhoven - Delfzijl",
+      "type": "string"
+    },
+    "date": {
+      "description": "Stage date. Format: YYYY-MM-DD",
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "status": {
+      "description": "Stage status. finished or notStarted.",
+      "enum": ["notStarted", "finished"]
+    },
+    "stageResults": {
+      "description": "Names of cyclists in finished order",
+      "anyOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "string",
+          "minLength": 0
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      ]
+    }
+  },
+  "required": ["number", "route", "date", "status"]
 }
