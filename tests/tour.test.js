@@ -1,10 +1,27 @@
 import { expect, test } from "vitest";
 import fs from "fs";
 import yaml from "js-yaml";
+import ajv from "ajv";
+import ajvFormats from "ajv-formats";
 
 const currentTourData = yaml.load(
   fs.readFileSync("data/currentTour.yaml", "utf8")
 );
+
+test("Validate tour schema", () => {
+  const tourSchema = yaml.load(fs.readFileSync("schemas/tour.json", "utf8"));
+
+  const ajvInstance = new ajv();
+  ajvFormats(ajvInstance);
+  const validate = ajvInstance.compile(tourSchema);
+
+  let tourData = fs.readFileSync(
+    "data" + currentTourData.currentTourLocation + "/tourConfig.yaml",
+    "utf8"
+  );
+  let tourDataJSON = yaml.load(tourData);
+  expect(validate(tourDataJSON)).toBeTruthy();
+});
 
 // Current tour location is not empty
 test("currentTour not null", () => {

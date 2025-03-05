@@ -51,8 +51,11 @@
     "yocto-queue": "^1.0.0"
   },
   "devDependencies": {
+    "@types/ajv": "^0.0.5",
     "@vitest/ui": "^1.6.0",
-    "vitest": "^1.6.0"
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "vitest": "^1.6.1"
   },
   "optionalDependencies": {
     "fsevents": "^2.3.3"

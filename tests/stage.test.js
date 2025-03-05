@@ -1,6 +1,7 @@
 import { assert, expect, test } from "vitest";
 import fs from "fs";
 import yaml from "js-yaml";
+import ajv from "ajv";
 
 const currentTourFile = fs.readFileSync("data/currentTour.yaml", "utf8");
 const currentTourData = yaml.load(currentTourFile);
@@ -22,13 +23,17 @@ const cyclistArray = cyclistsJSON
   .map((obj) => obj.cyclists)
   .reduce((acc, arr) => acc.concat(arr), []);
 
-//A stage can only have one of two statuses: notStarted or finished
-test("Status stage only notStarted or finished", () => {
+test("Validate stage schema", () => {
+  const stageSchema = yaml.load(fs.readFileSync("schemas/stage.json", "utf8"));
+
+  const ajvInstance = new ajv();
+  const validate = ajvInstance.compile(stageSchema);
+
   files.forEach((file) => {
-    let stageDataJSON = yaml.load(
-      fs.readFileSync(currentTourStagesLocation + file, "utf8")
-    );
-    expect(["notStarted", "finished"]).toContain(stageDataJSON.status);
+    let stageData = fs.readFileSync(currentTourStagesLocation + file, "utf8");
+    console.log(stageData);
+    let stageDataJSON = yaml.load(stageData);
+    expect(validate(stageDataJSON)).toBeTruthy();
   });
 });
 
