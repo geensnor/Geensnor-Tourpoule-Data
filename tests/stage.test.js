@@ -31,7 +31,6 @@ test("Validate stage schema", () => {
 
   files.forEach((file) => {
     let stageData = fs.readFileSync(currentTourStagesLocation + file, "utf8");
-    console.log(stageData);
     let stageDataJSON = yaml.load(stageData);
     expect(validate(stageDataJSON)).toBeTruthy();
   });
