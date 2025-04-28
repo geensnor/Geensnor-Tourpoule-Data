@@ -29,6 +29,7 @@ jobs:
             2021/**
             2022/**
             2023/**
+            2024/**
           dangerous-clean-slate: true
 
   http-request:
