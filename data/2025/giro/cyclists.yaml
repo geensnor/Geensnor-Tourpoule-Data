@@ -1,143 +1,231 @@
 ---
+- teamName: Red Bull-BORA-hansgrohe
+  cyclists:
+    - Primoz Roglic
+    - Giovanni Aleotti
+    - Nico Denz
+    - Jai Hindley
+    - Daniel Martinez
+    - Gianni Moscon
+    - Giulio Pellizzari
+    - Jan Tratnik
 - teamName: Alpecin-Deceuninck
   cyclists:
     - Kaden Groves
     - Quinten Hermans
+    - Juri Hollmann
+    - Jimmy Janssens
+    - Timo Kielich
+    - Edward Planckaert
+    - Fabio Van den Bossche
     - Luca Vergallito
+- teamName: ARKEA-B&B HOTELS
+  cyclists:
+    - Alessandro Verre
+    - Giosue Epis
+    - Simon Guglielmi
+    - Laurens Huys
+    - Michel Ries
+    - Embret Svestad-Bårdseng
+    - Pierre Thierry
+    - Martin Tjøtta
 - teamName: Bahrain Victorious
   cyclists:
-    - Pello Bilbao
-    - Matevz Govekar
     - Antonio Tiberi
+    - Pello Bilbao
+    - Damiano Caruso
+    - Afonso Eulalio
+    - Matevz Govekar
+    - Fran Miholjevic
+    - Andrea Pasqualon
     - Edoardo Zambanini
 - teamName: Cofidis
   cyclists:
     - Milan Fretin
+    - Piet Allegaert
+    - Jonathan Lastra
+    - Sylvain Moniquet
+    - Stefano Oldani
+    - Anthony Perez
+    - Sergio Samitier
+    - Hugo Toumire
 - teamName: Decathlon AG2R La Mondiale
   cyclists:
     - Sam Bennett
+    - Geoffrey Bouchard
+    - Dries De Bondt
+    - Stan Dewulf
+    - Dorian Godon
+    - Tord Gudmestad
     - Nicolas Prodhomme
-    - Andrea Vendrame
+    - Johannes Staune-Mittet
 - teamName: EF Education-EasyPost
   cyclists:
-    - Samuele Battistella
     - Richard Carapaz
-    - Rui Costa
+    - Hugh Carthy
+    - Alexander Cepeda
+    - Owain Doull
+    - Mikkel Honore
     - James Shaw
     - Georg Steinhauser
+    - Michael Valgren
 - teamName: Groupama-FDJ
   cyclists:
     - David Gaudu
+    - Sven Erik Bystrøm
+    - Clément Davy
     - Kevin Geniets
+    - Lorenzo Germani
+    - Quentin Pacher
+    - Enzo Paleni
     - Rémy Rochas
 - teamName: INEOS Grenadiers
   cyclists:
-    - Thymen Arensman
     - Egan Bernal
+    - Thymen Arensman
+    - Jonathan Castroviejo
+    - Lucas Hamilton
+    - Kim Heiduk
+    - Brandon Rivera
     - Joshua Tarling
+    - Ben Turner
 - teamName: Intermarché-Wanty
   cyclists:
-    - Francesco Busatto
-    - Kobe Goossens
     - Louis Meintjes
+    - Francesco Busatto
+    - Kevin Colleoni
+    - Simone Petilli
     - Dion Smith
+    - Gerben Thijssen
+    - Taco van der Hoorn
+    - Gijs Van Hoecke
 - teamName: Israel-Premier Tech
   cyclists:
-    - George Bennett
+    - Derek Gee
+    - Simon Clarke
     - Marco Frigo
     - Jakob Fuglsang
-    - Derek Gee
     - Jan Hirt
+    - Hugo Houle
+    - Nick Schultz
     - Corbin Strong
 - teamName: Lidl-Trek
   cyclists:
     - Giulio Ciccone
-    - Søren Kragh Andersen
-    - Bauke Mollema
+    - Daan Hoole
+    - Alex Kirsch
+    - Patrick Konrad
+    - Jacopo Mosca
     - Mads Pedersen
     - Mathias Vacek
+    - Carlos Verona
 - teamName: Movistar Team
   cyclists:
+    - Nairo Quintana
+    - Orluis Aular
+    - Jon Barrenetxea
     - Jefferson Cepeda
     - Davide Formolo
-    - Fernando Gaviria
-    - Nairo Quintana
+    - Lorenzo Milesi
     - Einer Rubio
-    - Pelayo Sanchez
+    - Albert Torres
 - teamName: Q36.5 Pro Cycling Team
   cyclists:
-    - David de la Cruz
-    - Matteo Moschetti
     - Tom Pidcock
-- teamName: Red Bull-BORA-hansgrohe
-  cyclists:
-    - Giovanni Aleotti
-    - Jai Hindley
-    - Daniel Martinez
-    - Primoz Roglic
-    - Matteo Sobrero
-    - Jan Tratnik
-    - Frederik Wandahl
+    - Xabier Azparren
+    - Gianluca Brambilla
+    - Mark Donovan
+    - Frederik Frison
+    - Damien Howson
+    - Matteo Moschetti
+    - Nickolas Zukowsky
 - teamName: Soudal Quick-Step
   cyclists:
     - Mikel Landa
+    - Mattia Cattaneo
+    - Josef Cerný
+    - Gianmarco Garofoli
+    - Ethan Hayter
+    - James Knox
+    - Luke Lamperti
     - Paul Magnier
-    - Valentin Paret-Peintre
 - teamName: Team Jayco-AlUla
   cyclists:
-    - Koen Bouwman
-    - Alessandro De Marchi
-    - Paul Double
     - Chris Harper
+    - Koen Bouwman
+    - Davide De Pretto
+    - Paul Double
+    - Felix Engelhardt
+    - Michael Hepburn
     - Lucas Plapp
     - Filippo Zana
 - teamName: Team Picnic PostNL
   cyclists:
     - Romain Bardet
-    - Romain Combaud
+    - Alex Edmondson
+    - Chris Hamilton
     - Gijs Leemreize
+    - Niklas Märkl
     - Max Poole
     - Casper van Uden
     - Bram Welten
 - teamName: Team Polti VisitMalta
   cyclists:
-    - Giovanni Lonardi
     - Davide Piganzoli
-    - Fernando Tercero
+    - Davide Bais
+    - Mattia Bais
+    - Giovanni Lonardi
+    - Mirco Maestri
+    - Francisco Muñoz
+    - Andrea Pietrobon
+    - Alessandro Tonelli
 - teamName: Team Visma | Lease a Bike
   cyclists:
+    - Wout van Aert
     - Edoardo Affini
     - Wilco Kelderman
     - Olav Kooij
     - Steven Kruijswijk
     - Bart Lemmen
-    - Wout van Aert
     - Dylan van Baarle
     - Simon Yates
 - teamName: Tudor Pro Cycling Team
   cyclists:
-    - Marc Hirschi
+    - Yannis Voisard
+    - Marco Brenner
+    - Alexander Krieger
+    - Rick Pluimers
     - Michael Storer
     - Florian Stork
+    - Lawrence Warbasse
+    - Maikel Zijlaard
 - teamName: UAE Team Emirates-XRG
   cyclists:
-    - Igor Arrieta
     - Juan Ayuso
+    - Igor Arrieta
+    - Filippo Baroncini
     - Isaac del Toro
     - Rafal Majka
+    - Brandon McNulty
     - Jay Vine
     - Adam Yates
 - teamName: VF Group-Bardiani CSF-Faizanè
   cyclists:
     - Filippo Fiorelli
+    - Luca Covili
+    - Filippo Magli
     - Martin Marcellusi
     - Alessandro Pinarello
+    - Vicente Rojas
     - Manuele Tarozzi
+    - Enrico Zanoncello
 - teamName: XDS Astana Team
   cyclists:
-    - Alberto Bettiol
+    - Diego Ulissi
     - Nicola Conci
     - Lorenzo Fortunato
+    - Max Kanter
+    - Anton Kuzmin
+    - Fausto Masnada
     - Wout Poels
     - Christian Scaroni
-    - Diego Ulissi
