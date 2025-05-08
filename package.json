@@ -15,7 +15,7 @@
     "debug": "^4.3.4",
     "deep-eql": "^5.0.1",
     "diff-sequences": "^29.6.3",
-    "esbuild": "^0.21.3",
+    "esbuild": "^0.25.3",
     "get-func-name": "^3.0.0",
     "js-yaml": "^4.1.0",
     "jsonc-parser": "^3.2.1",
@@ -45,17 +45,17 @@
     "tinyspy": "^2.2.1",
     "type-detect": "^4.0.8",
     "ufo": "^1.5.3",
-    "vite": "^5.2.11",
-    "vite-node": "^1.6.0",
+    "vite": "^6.3.3",
+    "vite-node": "^3.1.2",
     "why-is-node-running": "^2.2.2",
     "yocto-queue": "^1.0.0"
   },
   "devDependencies": {
     "@types/ajv": "^0.0.5",
-    "@vitest/ui": "^1.6.0",
+    "@vitest/ui": "^3.1.2",
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
-    "vitest": "^1.6.1"
+    "vitest": "^3.1.2"
   },
   "optionalDependencies": {
     "fsevents": "^2.3.3"
