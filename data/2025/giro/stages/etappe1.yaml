@@ -2,10 +2,20 @@
 number: 1
 route: Durazzo (Durrës) - Tirana (Tiranë)
 date: "2025-05-09"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Mads Pedersen
+  - Wout van Aert
+  - Orluis Aular
+  - Francesco Busatto
+  - Tom Pidcock
+  - Diego Ulissi
+  - Richard Carapaz
+  - Max Poole
+  - Nicola Conci
+  - Davide Piganzoli
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Mads Pedersen
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Sylvain Moniquet
