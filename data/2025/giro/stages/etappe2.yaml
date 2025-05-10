@@ -3,9 +3,19 @@ number: 2
 route: Tirana (Tiranë) - Tirana (Tiranë)
 date: "2025-05-10"
 status: notStarted
-stageResults: ""
+stageResults:
+  - Joshua Tarling
+  - Primoz Roglic
+  - Jay Vine
+  - Edoardo Affini
+  - Mathias Vacek
+  - Daan Hoole
+  - Mads Pedersen
+  - Brandon McNulty
+  - Ethan Hayter
+  - Juan Ayuso
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Primoz Roglic
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Sylvain Moniquet
