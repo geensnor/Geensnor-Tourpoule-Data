@@ -2,10 +2,20 @@
 number: 4
 route: Alberobello (Pietramadre) - Lecce
 date: "2025-05-13"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Casper van Uden
+  - Olav Kooij
+  - Maikel Zijlaard
+  - Mads Pedersen
+  - Kaden Groves
+  - Sam Bennett
+  - Paul Magnier
+  - Ben Turner
+  - Matteo Moschetti
+  - Enrico Zanoncello
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Mads Pedersen
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Lorenzo Fortunato
