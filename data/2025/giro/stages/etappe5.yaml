@@ -2,10 +2,20 @@
 number: 5
 route: Ceglie Messapica - Matera
 date: "2025-05-14"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Mads Pedersen
+  - Edoardo Zambanini
+  - Tom Pidcock
+  - Orluis Aular
+  - Filippo Fiorelli
+  - Michael Storer
+  - Quentin Pacher
+  - Brandon Rivera
+  - Damiano Caruso
+  - Isaac del Toro
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Mads Pedersen
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Lorenzo Fortunato
