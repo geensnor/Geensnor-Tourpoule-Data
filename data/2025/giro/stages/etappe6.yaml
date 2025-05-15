@@ -3,9 +3,19 @@ number: 6
 route: Potenza - Napoli
 date: "2025-05-15"
 status: notStarted
-stageResults: ""
+stageResults:
+  - Kaden Groves
+  - Milan Fretin
+  - Paul Magnier
+  - Max Kanter
+  - Giovanni Lonardi
+  - Maikel Zijlaard
+  - Martin Marcellusi
+  - Luca Mozzato
+  - Matevz Govekar
+  - Olav Kooij
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Mads Pedersen
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Lorenzo Fortunato
