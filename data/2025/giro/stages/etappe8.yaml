@@ -2,10 +2,20 @@
 number: 8
 route: Giulianova - Castelraimondo
 date: "2025-05-17"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Lucas Plapp
+  - Wilco Kelderman
+  - Diego Ulissi
+  - Igor Arrieta
+  - Nicolas Prodhomme
+  - Andrea Vendrame
+  - Lorenzo Fortunato
+  - Georg Steinhauser
+  - Romain Bardet
+  - Alessio Martinelli
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Diego Ulissi
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Lorenzo Fortunato
