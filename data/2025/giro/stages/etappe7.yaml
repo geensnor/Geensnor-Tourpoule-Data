@@ -2,10 +2,20 @@
 number: 7
 route: Castel di Sangro - Tagliacozzo
 date: "2025-05-16"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Juan Ayuso
+  - Isaac del Toro
+  - Egan Bernal
+  - Primoz Roglic
+  - Giulio Ciccone
+  - Antonio Tiberi
+  - Damiano Caruso
+  - Richard Carapaz
+  - Max Poole
+  - Michael Storer
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Primoz Roglic
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Lorenzo Fortunato
