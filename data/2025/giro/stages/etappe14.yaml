@@ -2,10 +2,20 @@
 number: 14
 route: Treviso - Nova Gorica/Gorizia
 date: "2025-05-24"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Kasper Asgreen
+  - Kaden Groves
+  - Olav Kooij
+  - Orluis Aular
+  - Stefano Oldani
+  - Mirco Maestri
+  - Derek Gee
+  - Tom Pidcock
+  - Richard Carapaz
+  - Mikkel Honore
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Isaac del Toro
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Lorenzo Fortunato
