@@ -2,10 +2,20 @@
 number: 13
 route: Rovigo - Vicenza
 date: "2025-05-23"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Mads Pedersen
+  - Wout van Aert
+  - Isaac del Toro
+  - Rémy Rochas
+  - Dorian Godon
+  - Primoz Roglic
+  - Antonio Tiberi
+  - Derek Gee
+  - Orluis Aular
+  - Egan Bernal
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Isaac del Toro
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Lorenzo Fortunato
