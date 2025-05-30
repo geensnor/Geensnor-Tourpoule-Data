@@ -2,10 +2,20 @@
 number: 19
 route: Biella - Champoluc
 date: "2025-05-30"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Nicolas Prodhomme
+  - Isaac del Toro
+  - Richard Carapaz
+  - Damiano Caruso
+  - Brandon McNulty
+  - Egan Bernal
+  - Simon Yates
+  - Rafal Majka
+  - Antonio Tiberi
+  - Einer Rubio
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Isaac del Toro
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Lorenzo Fortunato
