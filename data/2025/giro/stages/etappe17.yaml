@@ -2,10 +2,20 @@
 number: 17
 route: San Michele all'Adige (Fondazione Edmund Mach) - Bormio
 date: "2025-05-28"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Isaac del Toro
+  - Romain Bardet
+  - Richard Carapaz
+  - Simon Yates
+  - Giulio Pellizzari
+  - Derek Gee
+  - Damiano Caruso
+  - Einer Rubio
+  - Max Poole
+  - Afonso Eulalio
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Isaac del Toro
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Lorenzo Fortunato
