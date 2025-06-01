@@ -2,10 +2,20 @@
 number: 21
 route: Roma - Roma
 date: "2025-06-01"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Olav Kooij
+  - Kaden Groves
+  - Matteo Moschetti
+  - Mads Pedersen
+  - Luke Lamperti
+  - Max Kanter
+  - Filippo Baroncini
+  - Orluis Aular
+  - Enrico Zanoncello
+  - Giovanni Lonardi
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ""
+    cyclist: Simon Yates
   - jersey: De Blauwe Trui
-    cyclist: ""
+    cyclist: Lorenzo Fortunato
