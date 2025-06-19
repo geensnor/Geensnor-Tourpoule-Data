@@ -1,0 +1,139 @@
+---
+- teamName: Alpecin-Deceuninck
+  cyclists:
+    - Jasper Philipsen
+    - Mathieu van der Poel
+- teamName: ARKEA-B&B HOTELS
+  cyclists:
+    - Cristian Rodriguez
+    - Kévin Vauquelin
+- teamName: Bahrain Victorious
+  cyclists:
+    - Santiago Buitrago
+    - Lenny Martinez
+    - Matej Mohoric
+- teamName: Cofidis
+  cyclists:
+    - Alex Aranburu
+    - Emanuel Buchmann
+    - Ion Izagirre
+    - Benjamin Thomas
+- teamName: Decathlon AG2R La Mondiale
+  cyclists:
+    - Bruno Armirail
+    - Felix Gall
+- teamName: EF Education-EasyPost
+  cyclists:
+    - Richard Carapaz
+    - Ben Healy
+    - Neilson Powless
+- teamName: Groupama-FDJ
+  cyclists:
+    - Romain Grégoire
+    - Valentin Madouas
+    - Guillaume Martin-Guyonnet
+- teamName: INEOS Grenadiers
+  cyclists:
+    - Laurens De Plus
+    - Filippo Ganna
+    - Carlos Rodriguez
+    - Geraint Thomas
+- teamName: Intermarché-Wanty
+  cyclists:
+    - Louis Barré
+    - Biniam Girmay
+    - Hugo Page
+    - Laurenz Rex
+    - Georg Zimmermann
+- teamName: Israel-Premier Tech
+  cyclists:
+    - Joe Blackmore
+    - Alexey Lutsenko
+    - Jake Stewart
+    - Michael Woods
+- teamName: Lidl-Trek
+  cyclists:
+    - Simone Consonni
+    - Tao Geoghegan Hart
+    - Jonathan Milan
+    - Thibau Nys
+    - Mattias Skjelmose
+    - Jasper Stuyven
+- teamName: Lotto
+  cyclists:
+    - Jasper De Buyst
+    - Arnaud De Lie
+    - Lennert Van Eetvelt
+- teamName: Movistar Team
+  cyclists:
+    - Pablo Castrillo
+    - Enric Mas
+    - Iván Romeo
+    - Javier Romo
+- teamName: Red Bull-BORA-hansgrohe
+  cyclists:
+    - Florian Lipowitz
+    - Primoz Roglic
+    - Jan Tratnik
+    - Danny van Poppel
+    - Aleksandr Vlasov
+- teamName: Soudal Quick-Step
+  cyclists:
+    - Remco Evenepoel
+    - Tim Merlier
+    - Bert Van Lerberghe
+- teamName: Team Jayco-AlUla
+  cyclists:
+    - Edward Dunbar
+    - Dylan Groenewegen
+    - Luka Mezgec
+    - Kelland O'Brien
+    - Mauro Schmid
+- teamName: Team Picnic PostNL
+  cyclists:
+    - Tobias Lund Andresen
+    - Oscar Onley
+- teamName: Team TotalEnergies
+  cyclists:
+    - Mathieu Burgaudeau
+    - Anthony Turgis
+- teamName: Team Visma | Lease a Bike
+  cyclists:
+    - Tiesj Benoot
+    - Victor Campenaerts
+    - Matteo Jorgenson
+    - Sepp Kuss
+    - Wout van Aert
+    - Jonas Vingegaard
+    - Simon Yates
+- teamName: Tudor Pro Cycling Team
+  cyclists:
+    - Julian Alaphilippe
+    - Marco Haller
+    - Marc Hirschi
+- teamName: UAE Team Emirates-XRG
+  cyclists:
+    - João Almeida
+    - Jhonatan Narvaez
+    - Tadej Pogacar
+    - Nils Politt
+    - Pavel Sivakov
+    - Marc Soler
+    - Tim Wellens
+- teamName: Uno-X Mobility
+  cyclists:
+    - Jonas Abrahamsen
+    - Magnus Cort
+    - Stian Fredheim
+    - Markus Hoelgaard
+    - Anders Halland Johannessen
+    - Tobias Halland Johannessen
+    - Andreas Leknessund
+    - Søren Wærenskjold
+- teamName: XDS Astana Team
+  cyclists:
+    - Alberto Bettiol
+    - Clément Champoussin
+    - Sergio Higuita
+    - Harold Tejada
+    - Simone Velasco
