@@ -9,9 +9,14 @@
     - Kévin Vauquelin
 - teamName: Bahrain Victorious
   cyclists:
+    - Phil Bauhaus
     - Santiago Buitrago
+    - Kamil Gradek
+    - Jack Haig
     - Lenny Martinez
     - Matej Mohoric
+    - Robert Stannard
+    - Fred Wright
 - teamName: Cofidis
   cyclists:
     - Alex Aranburu
@@ -41,20 +46,26 @@
 - teamName: Intermarché-Wanty
   cyclists:
     - Louis Barré
+    - Vito Braet
     - Biniam Girmay
     - Hugo Page
     - Laurenz Rex
+    - Jonas Rutsch
+    - Roel van Sintmaartensdijk
     - Georg Zimmermann
 - teamName: Israel-Premier Tech
   cyclists:
+    - Pascal Ackermann
     - Joe Blackmore
+    - Guillaume Boivin
+    - Matis Louvel
     - Alexey Lutsenko
+    - Krists Neilands
     - Jake Stewart
     - Michael Woods
 - teamName: Lidl-Trek
   cyclists:
     - Simone Consonni
-    - Tao Geoghegan Hart
     - Jonathan Milan
     - Thibau Nys
     - Mattias Skjelmose
@@ -73,8 +84,11 @@
 - teamName: Red Bull-BORA-hansgrohe
   cyclists:
     - Florian Lipowitz
+    - Jordi Meeus
+    - Gianni Moscon
+    - Laurence Pithie
     - Primoz Roglic
-    - Jan Tratnik
+    - Mick van Dijke
     - Danny van Poppel
     - Aleksandr Vlasov
 - teamName: Soudal Quick-Step
@@ -99,6 +113,7 @@
     - Anthony Turgis
 - teamName: Team Visma | Lease a Bike
   cyclists:
+    - Edoardo Affini
     - Tiesj Benoot
     - Victor Campenaerts
     - Matteo Jorgenson
@@ -120,6 +135,7 @@
     - Pavel Sivakov
     - Marc Soler
     - Tim Wellens
+    - Adam Yates
 - teamName: Uno-X Mobility
   cyclists:
     - Jonas Abrahamsen
