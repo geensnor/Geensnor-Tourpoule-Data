@@ -5,8 +5,14 @@
     - Mathieu van der Poel
 - teamName: ARKEA-B&B HOTELS
   cyclists:
+    - Amaury Capiot
+    - Ewen Costiou
+    - Arnaud Démare
+    - Raúl García
+    - Mathis Le Berre
     - Cristian Rodriguez
     - Kévin Vauquelin
+    - Clément Venturini
 - teamName: Bahrain Victorious
   cyclists:
     - Phil Bauhaus
@@ -21,22 +27,36 @@
   cyclists:
     - Alex Aranburu
     - Emanuel Buchmann
+    - Bryan Coquard
     - Ion Izagirre
+    - Alexis Renard
+    - Dylan Teuns
     - Benjamin Thomas
+    - Damien Touzé
 - teamName: Decathlon AG2R La Mondiale
   cyclists:
     - Bruno Armirail
+    - Clément Berthet
+    - Stefan Bissegger
     - Felix Gall
+    - Oliver Naesen
+    - Aurélien Paret-Peintre
+    - Callum Scotson
+    - Bastien Tronchon
 - teamName: EF Education-EasyPost
   cyclists:
-    - Richard Carapaz
     - Ben Healy
     - Neilson Powless
 - teamName: Groupama-FDJ
   cyclists:
+    - Lewis Askey
+    - Cyril Barthe
     - Romain Grégoire
     - Valentin Madouas
     - Guillaume Martin-Guyonnet
+    - Quentin Pacher
+    - Paul Penhoët
+    - Clément Russo
 - teamName: INEOS Grenadiers
   cyclists:
     - Laurens De Plus
@@ -68,19 +88,27 @@
     - Simone Consonni
     - Jonathan Milan
     - Thibau Nys
+    - Quinn Simmons
     - Mattias Skjelmose
+    - Toms Skujins
     - Jasper Stuyven
+    - Edward Theuns
 - teamName: Lotto
   cyclists:
+    - Jenno Berckmoes
     - Jasper De Buyst
     - Arnaud De Lie
     - Lennert Van Eetvelt
 - teamName: Movistar Team
   cyclists:
+    - William Barta
     - Pablo Castrillo
+    - Iván García Cortina
     - Enric Mas
+    - Gregor Mühlberger
+    - Nelson Oliveira
     - Iván Romeo
-    - Javier Romo
+    - Einer Rubio
 - teamName: Red Bull-BORA-hansgrohe
   cyclists:
     - Florian Lipowitz
@@ -99,18 +127,33 @@
 - teamName: Team Jayco-AlUla
   cyclists:
     - Edward Dunbar
+    - Luke Durbridge
     - Dylan Groenewegen
     - Luka Mezgec
-    - Kelland O'Brien
+    - Ben O'Connor
+    - Lucas Plapp
+    - Elmar Reinders
     - Mauro Schmid
 - teamName: Team Picnic PostNL
   cyclists:
+    - Warren Barguil
+    - Pavel Bittner
+    - Sean Flynn
     - Tobias Lund Andresen
+    - Niklas Märkl
+    - Tim Naberman
     - Oscar Onley
+    - Frank van den Broek
 - teamName: Team TotalEnergies
   cyclists:
     - Mathieu Burgaudeau
+    - Steff Cras
+    - Alexandre Delettre
+    - Thomas Gachignard
+    - Emilien Jeannière
+    - Jordan Jegat
     - Anthony Turgis
+    - Mattéo Vercher
 - teamName: Team Visma | Lease a Bike
   cyclists:
     - Edoardo Affini
@@ -124,8 +167,13 @@
 - teamName: Tudor Pro Cycling Team
   cyclists:
     - Julian Alaphilippe
+    - Alberto Dainese
     - Marco Haller
     - Marc Hirschi
+    - Fabian Lienhard
+    - Marius Mayrhofer
+    - Michael Storer
+    - Matteo Trentin
 - teamName: UAE Team Emirates-XRG
   cyclists:
     - João Almeida
