@@ -1,11 +1,12 @@
 ---
 number: 12
+date: '2025-07-17'
 route: Auch - Hautacam
-date: "2025-07-17"
+type: climb
 status: notStarted
-stageResults: ""
+stageResults: ''
 jerseyWearers:
-  - jersey: De Gele Trui
-    cyclist: ""
-  - jersey: De Bolletjes Trui
-    cyclist: ""
+  - jersey: De Roze Trui
+    cyclist: ''
+  - jersey: De Blauwe Trui
+    cyclist: ''

@@ -1,11 +1,12 @@
 ---
 number: 11
+date: '2025-07-16'
 route: Toulouse - Toulouse
-date: "2025-07-16"
+type: flat
 status: notStarted
-stageResults: ""
+stageResults: ''
 jerseyWearers:
-  - jersey: De Gele Trui
-    cyclist: ""
-  - jersey: De Bolletjes Trui
-    cyclist: ""
+  - jersey: De Roze Trui
+    cyclist: ''
+  - jersey: De Blauwe Trui
+    cyclist: ''

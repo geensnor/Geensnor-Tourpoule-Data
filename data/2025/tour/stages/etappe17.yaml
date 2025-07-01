@@ -1,11 +1,12 @@
 ---
 number: 17
+date: '2025-07-23'
 route: Bollène - Valence
-date: "2025-07-23"
+type: flat
 status: notStarted
-stageResults: ""
+stageResults: ''
 jerseyWearers:
-  - jersey: De Gele Trui
-    cyclist: ""
-  - jersey: De Bolletjes Trui
-    cyclist: ""
+  - jersey: De Roze Trui
+    cyclist: ''
+  - jersey: De Blauwe Trui
+    cyclist: ''

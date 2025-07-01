@@ -1,11 +1,12 @@
 ---
 number: 2
-route: Lauwin - Planque-Boulogne-sur-Mer
 date: "2025-07-06"
+route: Lauwin - Planque-Boulogne-sur-Mer
+type: hills
 status: notStarted
 stageResults: ""
 jerseyWearers:
-  - jersey: De Gele Trui
+  - jersey: De Roze Trui
     cyclist: ""
-  - jersey: De Bolletjes Trui
+  - jersey: De Blauwe Trui
     cyclist: ""

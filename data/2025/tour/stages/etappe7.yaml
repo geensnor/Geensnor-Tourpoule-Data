@@ -1,11 +1,12 @@
 ---
 number: 7
+date: '2025-07-11'
 route: Saint - Malo-Mûr-de-Bretagne Guerlédan
-date: "2025-07-11"
+type: hills
 status: notStarted
-stageResults: ""
+stageResults: ''
 jerseyWearers:
-  - jersey: De Gele Trui
-    cyclist: ""
-  - jersey: De Bolletjes Trui
-    cyclist: ""
+  - jersey: De Roze Trui
+    cyclist: ''
+  - jersey: De Blauwe Trui
+    cyclist: ''

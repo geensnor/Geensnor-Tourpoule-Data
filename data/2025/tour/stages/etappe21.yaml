@@ -1,11 +1,12 @@
 ---
 number: 21
-route: Mantes - la-Ville-Paris Champs-Élysées
 date: "2025-07-27"
+route: Mantes - la-Ville-Paris Champs-Élysées
+type: flat
 status: notStarted
 stageResults: ""
 jerseyWearers:
-  - jersey: De Gele Trui
+  - jersey: De Roze Trui
     cyclist: ""
-  - jersey: De Bolletjes Trui
+  - jersey: De Blauwe Trui
     cyclist: ""

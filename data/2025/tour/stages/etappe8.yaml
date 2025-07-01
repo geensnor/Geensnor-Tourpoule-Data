@@ -1,11 +1,12 @@
 ---
 number: 8
+date: '2025-07-12'
 route: Saint - Méen-le-Grand-Laval Espace Mayenne
-date: "2025-07-12"
+type: flat
 status: notStarted
-stageResults: ""
+stageResults: ''
 jerseyWearers:
-  - jersey: De Gele Trui
-    cyclist: ""
-  - jersey: De Bolletjes Trui
-    cyclist: ""
+  - jersey: De Roze Trui
+    cyclist: ''
+  - jersey: De Blauwe Trui
+    cyclist: ''

@@ -1,11 +1,12 @@
 ---
 number: 20
+date: '2025-07-26'
 route: Nantua - Pontarlier
-date: "2025-07-26"
+type: hills
 status: notStarted
-stageResults: ""
+stageResults: ''
 jerseyWearers:
-  - jersey: De Gele Trui
-    cyclist: ""
-  - jersey: De Bolletjes Trui
-    cyclist: ""
+  - jersey: De Roze Trui
+    cyclist: ''
+  - jersey: De Blauwe Trui
+    cyclist: ''

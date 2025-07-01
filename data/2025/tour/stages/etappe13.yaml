@@ -1,11 +1,12 @@
 ---
 number: 13
+date: '2025-07-18'
 route: Loudenvielle - Peyragudes
-date: "2025-07-18"
+type: time
 status: notStarted
-stageResults: ""
+stageResults: ''
 jerseyWearers:
-  - jersey: De Gele Trui
-    cyclist: ""
-  - jersey: De Bolletjes Trui
-    cyclist: ""
+  - jersey: De Roze Trui
+    cyclist: ''
+  - jersey: De Blauwe Trui
+    cyclist: ''

@@ -1,11 +1,12 @@
 ---
 number: 10
+date: '2025-07-14'
 route: Ennezat - Le Mont-Dore Puy de Sancy
-date: "2025-07-14"
+type: hills
 status: notStarted
-stageResults: ""
+stageResults: ''
 jerseyWearers:
-  - jersey: De Gele Trui
-    cyclist: ""
-  - jersey: De Bolletjes Trui
-    cyclist: ""
+  - jersey: De Roze Trui
+    cyclist: ''
+  - jersey: De Blauwe Trui
+    cyclist: ''
