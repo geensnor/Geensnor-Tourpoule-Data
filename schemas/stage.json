@@ -14,6 +14,10 @@
       "description": "Route description. For example: Eindhoven - Delfzijl",
       "type": "string"
     },
+    "type": {
+      "description": "Stage type",
+      "enum": ["flat", "time", "climb", "hills"]
+    },
     "date": {
       "description": "Stage date. Format: YYYY-MM-DD",
       "type": "string",
