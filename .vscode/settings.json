@@ -4,5 +4,10 @@
     "schemas/tour.json": ["data/**/**/tourConfig.yaml"],
     "schemas/cyclists.json": ["data/**/**/cyclists.yaml"]
   },
-  "redhat.telemetry.enabled": false
+  "redhat.telemetry.enabled": false,
+  "github.copilot.enable": {
+    "yaml": false,
+    "json": false,
+    "markdown": false
+  }
 }
