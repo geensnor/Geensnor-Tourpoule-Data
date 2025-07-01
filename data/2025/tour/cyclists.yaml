@@ -1,8 +1,14 @@
 ---
 - teamName: Alpecin-Deceuninck
   cyclists:
+    - Silvan Dillier
+    - Kaden Groves
+    - Xandro Meurisse
     - Jasper Philipsen
+    - Jonas Rickaert
     - Mathieu van der Poel
+    - Gianni Vermeersch
+    - Emiel Verstrynge
 - teamName: ARKEA-B&B HOTELS
   cyclists:
     - Amaury Capiot
@@ -45,8 +51,14 @@
     - Bastien Tronchon
 - teamName: EF Education-EasyPost
   cyclists:
+    - Vincenzo Albanese
+    - Kasper Asgreen
+    - Alex Baudin
     - Ben Healy
     - Neilson Powless
+    - Harry Sweeny
+    - Michael Valgren
+    - Marijn van den Berg
 - teamName: Groupama-FDJ
   cyclists:
     - Lewis Askey
@@ -98,7 +110,11 @@
     - Jenno Berckmoes
     - Jasper De Buyst
     - Arnaud De Lie
+    - Jarrad Drizners
+    - Sébastien Grignard
+    - Eduardo Sepulveda
     - Lennert Van Eetvelt
+    - Brent Van Moer
 - teamName: Movistar Team
   cyclists:
     - William Barta
@@ -121,9 +137,14 @@
     - Aleksandr Vlasov
 - teamName: Soudal Quick-Step
   cyclists:
+    - Mattia Cattaneo
+    - Pascal Eenkhoorn
     - Remco Evenepoel
     - Tim Merlier
+    - Valentin Paret-Peintre
+    - Max Schachmann
     - Bert Van Lerberghe
+    - Ilan Van Wilder
 - teamName: Team Jayco-AlUla
   cyclists:
     - Edward Dunbar
@@ -196,8 +217,11 @@
     - Søren Wærenskjold
 - teamName: XDS Astana Team
   cyclists:
-    - Alberto Bettiol
+    - Davide Ballerini
+    - Cees Bol
     - Clément Champoussin
+    - Yevgeniy Fedorov
     - Sergio Higuita
     - Harold Tejada
+    - Mike Teunissen
     - Simone Velasco
