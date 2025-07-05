@@ -1,12 +1,12 @@
 ---
 number: 6
-date: '2025-07-10'
+date: "2025-07-10"
 route: Bayeux - Vire Normandie
 type: hills
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
-  - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+  - jersey: De Gele Trui
+    cyclist: ""
+  - jersey: De Bolletjes Trui
+    cyclist: ""

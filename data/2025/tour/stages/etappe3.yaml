@@ -1,12 +1,12 @@
 ---
 number: 3
-date: '2025-07-07'
+date: "2025-07-07"
 route: Valenciennes - Dunkerque
 type: flat
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
-  - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+  - jersey: De Gele Trui
+    cyclist: ""
+  - jersey: De Bolletjes Trui
+    cyclist: ""

@@ -1,12 +1,12 @@
 ---
 number: 5
-date: '2025-07-09'
+date: "2025-07-09"
 route: Caen - Caen
 type: time
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
-  - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+  - jersey: De Gele Trui
+    cyclist: ""
+  - jersey: De Bolletjes Trui
+    cyclist: ""

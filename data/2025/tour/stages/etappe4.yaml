@@ -1,12 +1,12 @@
 ---
 number: 4
-date: '2025-07-08'
+date: "2025-07-08"
 route: Amiens Métropole - Rouen
 type: hills
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
-  - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+  - jersey: De Gele Trui
+    cyclist: ""
+  - jersey: De Bolletjes Trui
+    cyclist: ""

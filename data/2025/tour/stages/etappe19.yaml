@@ -1,12 +1,12 @@
 ---
 number: 19
-date: '2025-07-25'
+date: "2025-07-25"
 route: Albertville - La Plagne
 type: climb
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
-  - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+  - jersey: De Gele Trui
+    cyclist: ""
+  - jersey: De Bolletjes Trui
+    cyclist: ""
