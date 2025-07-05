@@ -6,8 +6,8 @@ on:
     branches:
       - main
     paths:
-      - 'data/**'
-      - 'schemas/**'
+      - "data/**"
+      - "schemas/**"
 jobs:
   test:
     uses: ./.github/workflows/test.yml
@@ -26,11 +26,11 @@ jobs:
           password: ${{ secrets.ftppassword }}
           local-dir: ./data/
           exclude: |
+            tour-du-test
             2021/**
             2022/**
             2023/**
             2024/**
-          dangerous-clean-slate: true
 
   http-request:
     name: 🫰 HTTP Request
