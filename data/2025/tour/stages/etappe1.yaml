@@ -1,12 +1,22 @@
 ---
 number: 1
-date: '2025-07-05'
+date: "2025-07-05"
 route: Lille Métropole - Lille Métropole
 type: flat
 status: notStarted
-stageResults: ''
+stageResults:
+  - Jasper Philipsen
+  - Biniam Girmay
+  - Søren Wærenskjold
+  - Anthony Turgis
+  - Matteo Trentin
+  - Clément Russo
+  - Paul Penhoët
+  - Matteo Jorgenson
+  - Marius Mayrhofer
+  - Sam Watson
 jerseyWearers:
-  - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+  - jersey: De Gele Trui
+    cyclist: Jasper Philipsen
+  - jersey: De Bolletjes Trui
+    cyclist: Benjamin Thomas
