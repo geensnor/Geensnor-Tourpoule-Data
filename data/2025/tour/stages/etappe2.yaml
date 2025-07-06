@@ -3,10 +3,20 @@ number: 2
 date: "2025-07-06"
 route: Lauwin - Planque-Boulogne-sur-Mer
 type: hills
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Mathieu van der Poel
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Romain Grégoire
+  - Julian Alaphilippe
+  - Oscar Onley
+  - Aurélien Paret-Peintre
+  - Kévin Vauquelin
+  - Simone Velasco
+  - Jenno Berckmoes
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Mathieu van der Poel
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
