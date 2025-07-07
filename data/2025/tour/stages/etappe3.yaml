@@ -3,10 +3,20 @@ number: 3
 date: "2025-07-07"
 route: Valenciennes - Dunkerque
 type: flat
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Tim Merlier
+  - Jonathan Milan
+  - Phil Bauhaus
+  - Søren Wærenskjold
+  - Pavel Bittner
+  - Biniam Girmay
+  - Kaden Groves
+  - Danny van Poppel
+  - Pascal Ackermann
+  - Amaury Capiot
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Mathieu van der Poel
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tim Wellens
