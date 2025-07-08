@@ -3,10 +3,20 @@ number: 4
 date: "2025-07-08"
 route: Amiens Métropole - Rouen
 type: hills
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Mathieu van der Poel
+  - Jonas Vingegaard
+  - Oscar Onley
+  - Romain Grégoire
+  - João Almeida
+  - Remco Evenepoel
+  - Matteo Jorgenson
+  - Mattias Skjelmose
+  - Kévin Vauquelin
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Mathieu van der Poel
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
