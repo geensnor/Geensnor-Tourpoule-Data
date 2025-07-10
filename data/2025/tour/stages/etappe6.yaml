@@ -3,10 +3,20 @@ number: 6
 date: "2025-07-10"
 route: Bayeux - Vire Normandie
 type: hills
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Ben Healy
+  - Quinn Simmons
+  - Michael Storer
+  - Edward Dunbar
+  - Simon Yates
+  - William Barta
+  - Harold Tejada
+  - Mathieu van der Poel
+  - Tadej Pogacar
+  - Jonas Vingegaard
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Mathieu van der Poel
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
