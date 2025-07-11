@@ -3,10 +3,20 @@ number: 7
 date: "2025-07-11"
 route: Saint - Malo-Mûr-de-Bretagne Guerlédan
 type: hills
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Oscar Onley
+  - Felix Gall
+  - Matteo Jorgenson
+  - Remco Evenepoel
+  - Kévin Vauquelin
+  - Jhonatan Narvaez
+  - Axel Laurance
+  - Tobias Halland Johannessen
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tim Wellens
