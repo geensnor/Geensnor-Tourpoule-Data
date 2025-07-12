@@ -3,10 +3,20 @@ number: 8
 date: "2025-07-12"
 route: Saint - Méen-le-Grand-Laval Espace Mayenne
 type: flat
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Jonathan Milan
+  - Wout van Aert
+  - Kaden Groves
+  - Pascal Ackermann
+  - Arnaud De Lie
+  - Tobias Lund Andresen
+  - Bryan Coquard
+  - Alberto Dainese
+  - Vincenzo Albanese
+  - Stian Fredheim
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tim Wellens
