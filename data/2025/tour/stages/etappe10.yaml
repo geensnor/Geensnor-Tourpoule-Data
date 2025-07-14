@@ -3,10 +3,20 @@ number: 10
 date: "2025-07-14"
 route: Ennezat - Le Mont-Dore Puy de Sancy
 type: hills
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Simon Yates
+  - Thymen Arensman
+  - Ben Healy
+  - Ben O'Connor
+  - Michael Storer
+  - Joe Blackmore
+  - Anders Halland Johannessen
+  - Lenny Martinez
+  - Tadej Pogacar
+  - Jonas Vingegaard
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Ben Healy
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Lenny Martinez
