@@ -3,10 +3,20 @@ number: 11
 date: "2025-07-16"
 route: Toulouse - Toulouse
 type: flat
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Jonas Abrahamsen
+  - Mauro Schmid
+  - Mathieu van der Poel
+  - Arnaud De Lie
+  - Wout van Aert
+  - Axel Laurance
+  - Fred Wright
+  - Mathieu Burgaudeau
+  - Quinn Simmons
+  - Davide Ballerini
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Ben Healy
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Lenny Martinez
