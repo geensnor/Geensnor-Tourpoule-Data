@@ -3,10 +3,20 @@ number: 12
 date: "2025-07-17"
 route: Auch - Hautacam
 type: climb
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Florian Lipowitz
+  - Tobias Halland Johannessen
+  - Oscar Onley
+  - Kévin Vauquelin
+  - Remco Evenepoel
+  - Felix Gall
+  - Primoz Roglic
+  - Cristian Rodriguez
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
