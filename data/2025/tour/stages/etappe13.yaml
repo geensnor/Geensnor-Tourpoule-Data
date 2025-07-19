@@ -3,10 +3,20 @@ number: 13
 date: "2025-07-18"
 route: Loudenvielle - Peyragudes
 type: time
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Primoz Roglic
+  - Florian Lipowitz
+  - Lucas Plapp
+  - Matteo Jorgenson
+  - Oscar Onley
+  - Adam Yates
+  - Lenny Martinez
+  - Felix Gall
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
