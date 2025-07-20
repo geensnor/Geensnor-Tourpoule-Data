@@ -4,9 +4,19 @@ date: "2025-07-19"
 route: Pau - Luchon-Superbagnères
 type: climb
 status: notStarted
-stageResults: ""
+stageResults:
+  - Thymen Arensman
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Felix Gall
+  - Florian Lipowitz
+  - Oscar Onley
+  - Ben Healy
+  - Primoz Roglic
+  - Tobias Halland Johannessen
+  - Kévin Vauquelin
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Lenny Martinez
