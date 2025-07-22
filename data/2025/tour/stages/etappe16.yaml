@@ -3,10 +3,20 @@ number: 16
 date: "2025-07-22"
 route: Montpellier - Mont Ventoux
 type: climb
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Valentin Paret-Peintre
+  - Ben Healy
+  - Santiago Buitrago
+  - Ilan Van Wilder
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Enric Mas
+  - Julian Alaphilippe
+  - Primoz Roglic
+  - Florian Lipowitz
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
