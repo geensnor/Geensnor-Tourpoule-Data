@@ -3,10 +3,20 @@ number: 17
 date: "2025-07-23"
 route: Bollène - Valence
 type: flat
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Jonathan Milan
+  - Jordi Meeus
+  - Tobias Lund Andresen
+  - Arnaud De Lie
+  - Davide Ballerini
+  - Alberto Dainese
+  - Paul Penhoët
+  - Yevgeniy Fedorov
+  - Clément Russo
+  - Jasper Stuyven
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
