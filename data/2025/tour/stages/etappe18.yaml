@@ -3,10 +3,20 @@ number: 18
 date: "2025-07-24"
 route: Vif - Courchevel Col de la Loze
 type: climb
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Ben O'Connor
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Oscar Onley
+  - Einer Rubio
+  - Felix Gall
+  - Primoz Roglic
+  - Adam Yates
+  - Tobias Halland Johannessen
+  - Sepp Kuss
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
