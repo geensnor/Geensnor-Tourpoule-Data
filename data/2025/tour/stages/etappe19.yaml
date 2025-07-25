@@ -3,10 +3,20 @@ number: 19
 date: "2025-07-25"
 route: Albertville - La Plagne
 type: climb
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Thymen Arensman
+  - Jonas Vingegaard
+  - Tadej Pogacar
+  - Florian Lipowitz
+  - Oscar Onley
+  - Felix Gall
+  - Tobias Halland Johannessen
+  - Ben Healy
+  - Valentin Paret-Peintre
+  - Simon Yates
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
