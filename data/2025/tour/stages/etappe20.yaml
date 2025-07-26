@@ -3,10 +3,20 @@ number: 20
 date: "2025-07-26"
 route: Nantua - Pontarlier
 type: hills
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Kaden Groves
+  - Frank van den Broek
+  - Pascal Eenkhoorn
+  - Simone Velasco
+  - Romain Grégoire
+  - Jake Stewart
+  - Jordan Jegat
+  - Tim Wellens
+  - Matteo Jorgenson
+  - Harry Sweeny
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
