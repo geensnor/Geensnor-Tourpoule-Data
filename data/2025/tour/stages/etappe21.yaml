@@ -3,10 +3,20 @@ number: 21
 date: "2025-07-27"
 route: Mantes - la-Ville-Paris Champs-Élysées
 type: flat
-status: notStarted
-stageResults: ""
+status: finishef
+stageResults:
+  - Wout van Aert
+  - Davide Ballerini
+  - Matej Mohoric
+  - Tadej Pogacar
+  - Matteo Jorgenson
+  - Matteo Trentin
+  - Arnaud de Lie
+  - Kévin Vauquelin
+  - Mike Teunissen
+  - Dylan Teuns
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
