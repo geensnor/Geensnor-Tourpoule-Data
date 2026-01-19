@@ -1,0 +1,109 @@
+---
+- teamName: Tudor Pro Cycling Team
+  cyclists:
+    - Matteo Trentin
+    - Michael Storer
+    - Stefan Küng
+    - Julian Alaphilippe
+- teamName: Uno-X Mobility
+  cyclists:
+    - Magnus Cort
+    - Tobias Halland Johannessen
+    - Andreas Kron
+- teamName: Decathlon CMA CGM Team
+  cyclists:
+    - Daan Hoole
+    - Tiesj Benoot
+    - Olav Kooij
+- teamName: Groupama - FDJ United
+  cyclists:
+    - Guillaume Martin
+    - David Gaudu
+- teamName: Alpecin-Premier Tech
+  cyclists:
+    - Jasper Philipsen
+- teamName: Bahrain - Victorious
+  cyclists:
+    - Matej Mohorič
+    - Antonio Tiberi
+    - Lenny Martinez
+- teamName: INEOS Grenadiers
+  cyclists:
+    - Filippo Ganna
+- teamName: Lidl - Trek
+  cyclists:
+    - Mattias Skjelmose
+    - Mathias Vacek
+    - Mads Pedersen
+    - Juan Ayuso
+    - Giulio Ciccone
+    - Quinn Simmons
+- teamName: Lotto Intermarché
+  cyclists:
+    - Lennert Van Eetvelt
+    - Arnaud De Lie
+- teamName: Movistar Team
+  cyclists:
+    - Einer Rubio
+    - Cian Uijtdebroeks
+- teamName: Red Bull - BORA - hansgrohe
+  cyclists:
+    - Jan Tratnik
+    - Laurence Pithie
+    - Gianni Moscon
+    - Jordi Meeus
+    - Daniel Felipe Martínez
+    - Jai Hindley
+    - Mick Van Dijke
+    - Florian Lipowitz
+    - Remco Evenepoel
+    - Nico Denz
+    - Maxim Van Gils
+    - Mattia Cattaneo
+- teamName: Soudal Quick-Step
+  cyclists:
+    - Jasper Stuyven
+    - Tim Merlier
+    - Ilan Van Wilder
+    - Mikel Landa
+    - Valentin Paret-Peintre
+- teamName: Team Jayco AlUla
+  cyclists:
+    - Michael Matthews
+    - Luke Plapp
+- teamName: Team Picnic PostNL
+  cyclists:
+    - Pavel Bittner
+    - Frank Van Den Broek
+    - Warren Barguil
+- teamName: Team Visma | Lease a Bike
+  cyclists:
+    - Jonas Vingegaard
+    - Sepp Kuss
+    - Victor Campenaerts
+    - Christophe Laporte
+    - Bruno Armirail
+    - Matteo Jorgenson
+    - Wout Van Aert
+- teamName: UAE Team Emirates - XRG
+  cyclists:
+    - Tim Wellens
+    - Isaac Del Toro
+    - Tadej Pogačar
+    - Adam Yates
+    - Brandon Mcnulty
+    - Marc Soler
+- teamName: XDS Astana Team
+  cyclists:
+    - Mike Teunissen
+- teamName: EF Education - EasyPost
+  cyclists:
+    - Ben Healy
+- teamName: Cofidis
+  cyclists:
+    - Simon Carr
+    - Milan Fretin
+    - Alex Kirsch
+- teamName: TotalEnergies
+  cyclists:
+    - Jordan Jegat

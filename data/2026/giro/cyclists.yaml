@@ -1,0 +1,91 @@
+---
+- teamName: Bahrain - Victorious
+  cyclists:
+    - Edoardo Zambanini
+    - Alec Segaert
+    - Santiago Buitrago
+    - Afonso Eulálio
+    - Damiano Caruso
+    - Matevž Govekar
+- teamName: Decathlon CMA CGM Team
+  cyclists:
+    - Tobias Lund Andresen
+    - Tord Gudmestad
+    - Oliver Naesen
+    - Felix Gall
+    - Gregor Mühlberger
+- teamName: EF Education - EasyPost
+  cyclists:
+    - Richard Carapaz
+    - Michael Valgren
+- teamName: Groupama - FDJ United
+  cyclists:
+    - Clément Berthet
+- teamName: INEOS Grenadiers
+  cyclists:
+    - Filippo Ganna
+- teamName: Lidl - Trek
+  cyclists:
+    - Derek Gee-West
+    - Thibau Nys
+    - Jonathan Milan
+    - Giulio Ciccone
+- teamName: Lotto Intermarché
+  cyclists:
+    - Lennert Van Eetvelt
+- teamName: Movistar Team
+  cyclists:
+    - Einer Rubio
+    - Nelson Oliveira
+    - Enric Mas
+- teamName: Red Bull - BORA - hansgrohe
+  cyclists:
+    - Giulio Pellizzari
+    - Jai Hindley
+    - Aleksandr Vlasov
+    - Danny Van Poppel
+- teamName: Soudal Quick-Step
+  cyclists:
+    - Paul Magnier
+    - Jasper Stuyven
+    - Mikel Landa
+- teamName: Team Jayco AlUla
+  cyclists:
+    - Luka Mezgec
+    - Ben O'Connor
+    - Filippo Conca
+- teamName: Team Picnic PostNL
+  cyclists:
+    - Casper Van Uden
+    - Max Poole
+- teamName: Team Visma | Lease a Bike
+  cyclists:
+    - Jonas Vingegaard
+    - Davide Piganzoli
+    - Victor Campenaerts
+    - Sepp Kuss
+    - Timo Kielich
+- teamName: Tudor Pro Cycling Team
+  cyclists:
+    - Michael Storer
+    - Marc Hirschi
+    - Mathys Rondel
+- teamName: UAE Team Emirates - XRG
+  cyclists:
+    - Igor Arrieta
+    - João Almeida
+    - António Morgado
+    - Jan Christen
+    - Florian Vermeersch
+    - Adam Yates
+    - Jay Vine
+- teamName: Uno-X Mobility
+  cyclists:
+    - Johannes Kulset
+- teamName: XDS Astana Team
+  cyclists:
+    - Diego Ulissi
+    - Christian Scaroni
+    - Davide Ballerini
+    - Alberto Bettiol
+    - Lorenzo Fortunato
