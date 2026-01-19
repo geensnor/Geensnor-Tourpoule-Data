@@ -1,0 +1,30 @@
+---
+name: Tour de France 2026
+status: closed
+maxCyclistsInUserTeam: 12
+tourURL: https://firstcycling.com/race.php?r=17&y=2026
+jerseys:
+  De Roze Trui: 10
+  De Bolletjes Trui: 5
+scoring:
+  - 30
+  - 15
+  - 12
+  - 9
+  - 8
+  - 7
+  - 6
+  - 5
+  - 4
+  - 3
+finalStandingScoring:
+  - 150
+  - 125
+  - 100
+  - 80
+  - 60
+  - 50
+  - 40
+  - 30
+  - 20
+  - 10

@@ -1,0 +1,12 @@
+---
+number: 10
+route: Viareggio - Massa
+type: time
+date: '2026-05-19'
+status: notStarted
+stageResults: null
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: ''
+  - jersey: De Blauwe Trui
+    cyclist: ''
