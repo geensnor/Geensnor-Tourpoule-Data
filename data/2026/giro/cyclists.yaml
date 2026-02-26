@@ -1,91 +1,111 @@
 ---
-- teamName: Bahrain - Victorious
+- teamName: Soudal Quick-Step
   cyclists:
-    - Edoardo Zambanini
-    - Alec Segaert
-    - Santiago Buitrago
-    - Afonso Eulálio
-    - Damiano Caruso
-    - Matevž Govekar
-- teamName: Decathlon CMA CGM Team
-  cyclists:
-    - Tobias Lund Andresen
-    - Tord Gudmestad
-    - Oliver Naesen
-    - Felix Gall
-    - Gregor Mühlberger
-- teamName: EF Education - EasyPost
-  cyclists:
-    - Richard Carapaz
-    - Michael Valgren
+    - Jasper Stuyven
+    - Paul Magnier
+    - Mikel Landa
 - teamName: Groupama - FDJ United
   cyclists:
     - Clément Berthet
-- teamName: INEOS Grenadiers
+    - Lorenzo Germani
+- teamName: EF Education - EasyPost
   cyclists:
-    - Filippo Ganna
-- teamName: Lidl - Trek
+    - Richard Carapaz
+    - Darren Rafferty
+    - Michael Valgren
+- teamName: XDS Astana Team
   cyclists:
-    - Derek Gee-West
-    - Thibau Nys
-    - Jonathan Milan
-    - Giulio Ciccone
-- teamName: Lotto Intermarché
+    - Alberto Bettiol
+    - Davide Ballerini
+    - Harold Martín López
+    - Lorenzo Fortunato
+    - Christian Scaroni
+    - Diego Ulissi
+- teamName: Uno-X Mobility
   cyclists:
-    - Lennert Van Eetvelt
-- teamName: Movistar Team
+    - Anders Skaarseth
+    - Johannes Kulset
+- teamName: UAE Team Emirates - XRG
   cyclists:
-    - Einer Rubio
-    - Nelson Oliveira
-    - Enric Mas
-- teamName: Red Bull - BORA - hansgrohe
+    - Jhonatan Narváez
+    - Florian Vermeersch
+    - Jan Christen
+    - António Morgado
+    - Igor Arrieta
+    - João Almeida
+    - Adam Yates
+    - Jay Vine
+- teamName: Team Visma | Lease a Bike
   cyclists:
-    - Giulio Pellizzari
-    - Jai Hindley
-    - Aleksandr Vlasov
-    - Danny Van Poppel
-- teamName: Soudal Quick-Step
+    - Davide Piganzoli
+    - Timo Kielich
+    - Sepp Kuss
+    - Victor Campenaerts
+    - Jonas Vingegaard
+    - Edoardo Affini
+    - Wilco Kelderman
+    - Bart Lemmen
+- teamName: Team Picnic PostNL
   cyclists:
-    - Paul Magnier
-    - Jasper Stuyven
-    - Mikel Landa
+    - Max Poole
+    - Casper Van Uden
 - teamName: Team Jayco AlUla
   cyclists:
     - Luka Mezgec
-    - Ben O'Connor
+    - Pascal Ackermann
     - Filippo Conca
-- teamName: Team Picnic PostNL
+    - Ben O'Connor
+- teamName: Decathlon CMA CGM Team
   cyclists:
-    - Casper Van Uden
-    - Max Poole
-- teamName: Team Visma | Lease a Bike
+    - Tord Gudmestad
+    - Tobias Lund Andresen
+    - Oliver Naesen
+    - Gregor Mühlberger
+    - Felix Gall
+- teamName: Red Bull - BORA - hansgrohe
   cyclists:
-    - Jonas Vingegaard
-    - Davide Piganzoli
-    - Victor Campenaerts
-    - Sepp Kuss
-    - Timo Kielich
+    - Frederik Wandahl
+    - Danny Van Poppel
+    - Aleksandr Vlasov
+    - Jai Hindley
+    - Giulio Pellizzari
+- teamName: Movistar Team
+  cyclists:
+    - Juan Pedro López
+    - Nelson Oliveira
+    - Enric Mas
+    - Einer Rubio
+- teamName: Lotto Intermarché
+  cyclists:
+    - Lennert Van Eetvelt
+- teamName: Lidl - Trek
+  cyclists:
+    - Derek Gee-West
+    - Jonathan Milan
+    - Thibau Nys
+    - Giulio Ciccone
+- teamName: INEOS Grenadiers
+  cyclists:
+    - Thymen Arensman
+    - Filippo Ganna
+- teamName: Bahrain - Victorious
+  cyclists:
+    - Edoardo Zambanini
+    - Matevž Govekar
+    - Damiano Caruso
+    - Afonso Eulálio
+    - Santiago Buitrago
+    - Alec Segaert
+- teamName: Alpecin-Premier Tech
+  cyclists:
+    - Kaden Groves
+    - Francesco Busatto
 - teamName: Tudor Pro Cycling Team
   cyclists:
-    - Michael Storer
-    - Marc Hirschi
     - Mathys Rondel
-- teamName: UAE Team Emirates - XRG
+    - Marc Hirschi
+    - Michael Storer
+- teamName: Unibet Rose Rockets
   cyclists:
-    - Igor Arrieta
-    - João Almeida
-    - António Morgado
-    - Jan Christen
-    - Florian Vermeersch
-    - Adam Yates
-    - Jay Vine
-- teamName: Uno-X Mobility
-  cyclists:
-    - Johannes Kulset
-- teamName: XDS Astana Team
-  cyclists:
-    - Diego Ulissi
-    - Christian Scaroni
-    - Davide Ballerini
-    - Alberto Bettiol
-    - Lorenzo Fortunato
+    - Wout Poels
+    - Dylan Groenewegen
