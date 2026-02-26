@@ -31,7 +31,7 @@ jobs:
             2022/**
             2023/**
             2024/**
-
+            2025/**
   http-request:
     name: 🫰 HTTP Request
     needs: web-deploy
