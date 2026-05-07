@@ -1,18 +1,17 @@
 ---
 name: Test
-on: [push, workflow_call]
+on: [ push, workflow_call ]
 jobs:
   lint:
     uses: ./.github/workflows/lint.yml
   test:
-    needs: [lint]
+    needs: [ lint ]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Use Node.js 20
+      - uses: actions/checkout@v6
+      - name: Use Node.js current
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: "npm"
+          node-version: current
       - run: npm ci
       - run: npm test

@@ -13,13 +13,13 @@ jobs:
     uses: ./.github/workflows/test.yml
   web-deploy:
     name: 🎉 Deploy
-    needs: [test]
+    needs: [ test ]
     runs-on: ubuntu-latest
     steps:
       - name: 🚚 Get latest code
         uses: actions/checkout@v4
       - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
           server: 45.82.191.81
           username: tourpoule-data
