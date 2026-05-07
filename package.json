@@ -30,7 +30,7 @@
     "pathval": "^2.0.0",
     "picocolors": "^1.0.1",
     "pkg-types": "^1.1.1",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.12",
     "prettier": "^3.2.5",
     "pretty-format": "^29.7.0",
     "react-is": "^18.3.1",
