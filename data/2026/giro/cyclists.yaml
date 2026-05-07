@@ -1,5 +1,5 @@
 ---
-- teamName: Alpecin-Premier Tech
+- teamName: Alpecin - Premier Tech
   cyclists:
     - Kaden Groves
     - Tobias Bayer
@@ -13,20 +13,20 @@
   cyclists:
     - Santiago Buitrago
     - Damiano Caruso
-    - Matevž Govekar
     - Fran Miholjević
     - Afonso Eulálio
     - Mathijs Paasschens
     - Alec Segaert
+    - Robert Stannard
     - Edoardo Zambanini
 - teamName: Bardiani CSF 7 Saber
   cyclists:
-    - Luca Covili
     - Filippo Magli
     - Martin Marcellusi
-    - Alessio Martinelli
     - Luca Paletti
+    - Vicente Rojas
     - Manuele Tarozzi
+    - Nikita Tsvetkov
     - Filippo Turconi
     - Enrico Zanoncello
 - teamName: Decathlon CMA CGM Team
@@ -41,16 +41,16 @@
     - Johannes Staune-Mittet
 - teamName: EF Education - EasyPost
   cyclists:
-    - Samuele Battistella
     - Jefferson Alexander Cepeda
-    - Sean Quinn
+    - Samuele Battistella
+    - Markel Beloki
+    - Madis Mihkels
     - Darren Rafferty
     - James Shaw
     - Michael Valgren
     - Jardi Christiaan Van Der Lee
 - teamName: Groupama - FDJ United
   cyclists:
-    - Lorenzo Germani
     - Rémi Cavagna
     - Cyril Barthe
     - Axel Huens
@@ -59,16 +59,6 @@
     - Paul Penhoët
     - Rémy Rochas
     - Brieuc Rolland
-- teamName: Netcompany INEOS Cycling Team
-  cyclists:
-    - Egan Bernal
-    - Thymen Arensman
-    - Filippo Ganna
-    - Jack Haig
-    - Magnus Sheffield
-    - Embret Svestad-Bårdseng
-    - Connor Swift
-    - Ben Turner
 - teamName: Lidl - Trek
   cyclists:
     - Giulio Ciccone
@@ -81,26 +71,34 @@
     - Max Walscheid
 - teamName: Lotto Intermarché
   cyclists:
-    - Lennert Van Eetvelt
-    - Liam Slock
     - Arnaud De Lie
     - Toon Aerts
-    - Jasper De Buyst
+    - Joshua Giddings
     - Simone Gualdi
-    - Mathieu Kockelmann
     - Milan Menten
     - Lorenzo Rota
     - Jonas Rutsch
+    - Lennert Van Eetvelt
 - teamName: Movistar Team
   cyclists:
-    - Iván García Cortina
-    - Orluis Aular
-    - Juan Pedro López
     - Enric Mas
+    - Orluis Aular
+    - Iván García Cortina
+    - Juan Pedro López
     - Lorenzo Milesi
     - Nelson Oliveira
     - Javier Romo
     - Einer Rubio
+- teamName: Netcompany INEOS
+  cyclists:
+    - Egan Bernal
+    - Thymen Arensman
+    - Filippo Ganna
+    - Jack Haig
+    - Magnus Sheffield
+    - Embret Svestad-Bårdseng
+    - Connor Swift
+    - Ben Turner
 - teamName: NSN Cycling Team
   cyclists:
     - Alessandro Pinarello
@@ -125,19 +123,20 @@
   cyclists:
     - Jai Hindley
     - Giovanni Aleotti
+    - Nico Denz
     - Gianni Moscon
     - Giulio Pellizzari
-    - Luke Tuckwell
     - Mick Van Dijke
     - Aleksandr Vlasov
     - Ben Zwiehoff
 - teamName: Soudal Quick-Step
   cyclists:
+    - Paul Magnier
     - Ayco Bastiaens
     - Gianmarco Garofoli
-    - Paul Magnier
     - Andrea Raccagni Noviero
     - Jasper Stuyven
+    - Fabio Van Den Bossche
     - Dries Van Gestel
     - Filippo Zana
 - teamName: Team Jayco AlUla
@@ -152,10 +151,10 @@
     - Andrea Vendrame
 - teamName: Team Picnic PostNL
   cyclists:
+    - Warren Barguil
     - Timo De Jong
     - Sean Flynn
     - Chris Hamilton
-    - James Knox
     - Gijs Leemreize
     - Tim Naberman
     - Frank Van Den Broek
@@ -168,8 +167,8 @@
     - Mirco Maestri
     - Andrea Mifsud
     - Thomas Pesenti
-    - Andrea Pietrobon
     - Diego Pablo Sevilla
+    - Alessandro Tonelli
 - teamName: Team Visma | Lease a Bike
   cyclists:
     - Jonas Vingegaard
@@ -182,27 +181,29 @@
     - Tim Rex
 - teamName: Tudor Pro Cycling Team
   cyclists:
+    - Michael Storer
     - Will Barta
     - Robin Froidevaux
+    - Fabian Lienhard
     - Luca Mozzato
     - Mathys Rondel
-    - Michael Storer
     - Florian Stork
     - Larry Warbasse
 - teamName: UAE Team Emirates - XRG
   cyclists:
+    - Adam Yates
     - Igor Arrieta
+    - Mikkel Bjerg
     - Jan Christen
     - Jhonatan Narváez
     - Marc Soler
     - António Morgado
     - Jay Vine
-    - Adam Yates
 - teamName: Unibet Rose Rockets
   cyclists:
     - Dylan Groenewegen
     - Hartthijs De Vries
-    - Karsten Larsen Feldmann
+    - Matyáš Kopecký
     - Tomáš Kopecký
     - Lukáš Kubiš
     - Niklas Larsen
@@ -210,12 +211,12 @@
     - Elmar Reinders
 - teamName: Uno-X Mobility
   cyclists:
+    - Erlend Blikra
     - Markus Hoelgaard
     - Ådne Holter
     - Johannes Kulset
     - Fredrik Dversnes Lavik
     - Andreas Leknessund
-    - Erlend Blikra
     - Sakarias Koller Løland
     - Martin Tjøtta
 - teamName: XDS Astana Team
