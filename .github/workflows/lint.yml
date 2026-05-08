@@ -17,3 +17,6 @@ jobs:
               line-length: false
               truthy: false
               comments: false
+              brackets: 
+                min-spaces-inside: 1 
+                max-spaces-inside: 3
