@@ -2,21 +2,21 @@
 number: 1
 route: Nessebar - Burgas
 type: flat
-date: '2026-05-08'
+date: "2026-05-08"
 status: finished
 stageResults:
-  - Magnier Paul
-  - Andresen Tobias Lund
-  - Vernon Ethan
-  - Milan Jonathan
-  - Mihkels Madis
-  - Lonardi Giovanni
-  - Ackermann Pascal
-  - Gudmestad Tord
-  - Walscheid Max
-  - Van Gestel Dries
+  - Paul Magnier
+  - Tobias Lund Andresen
+  - Ethan Vernon
+  - Jonathan Milan
+  - Madis Mihkels 
+  - Giovanni Lonardi
+  - Pascal Ackermann
+  - Tord Gudmestad 
+  - Max Walscheid 
+  - Dries Van Gestel
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: Magnier Paul
+    cyclist: Paul Magnier 
   - jersey: De Bolletjes Trui
-    cyclist: Diego Pablo Sevilla
+    cyclist: Pablo Sevilla Diego
