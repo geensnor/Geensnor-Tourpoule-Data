@@ -18,5 +18,5 @@ jobs:
               truthy: false
               comments: false
               brackets: 
-                min-spaces-inside: 1 
+                min-spaces-inside: 0 
                 max-spaces-inside: 3
