@@ -1,12 +1,22 @@
 ---
 number: 2
-route: Burgas - Valiko Tarnovo
+route: Burgas - Veliko Tarnovo
 type: climb
-date: '2026-05-09'
-status: notStarted
-stageResults: null
+date: "2026-05-09"
+status: finished
+stageResults:
+  - Guillermo Thomas Silva
+  - Florian Stork
+  - Giulio Ciccone
+  - Christian Scaroni
+  - Giulio Pellizzari
+  - Matteo Sobrero
+  - Andreas Leknessund
+  - Jan Christen
+  - Martin Tjøtta
+  - Mathys Rondel
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Guillermo Thomas Silva
+  - jersey: De Bolletjes Trui
+    cyclist: Diego Pablo Sevilla
