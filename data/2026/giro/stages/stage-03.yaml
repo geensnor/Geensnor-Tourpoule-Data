@@ -2,11 +2,21 @@
 number: 3
 route: Plovdiv - Sofia
 type: hills
-date: '2026-05-10'
-status: notStarted
-stageResults: null
+date: "2026-05-10"
+status: finished
+stageResults:
+  - Paul Magnier
+  - Jonathan Milan
+  - Dylan Groenewegen
+  - Madis Mihkels
+  - Matteo Malucelli
+  - Erlend Blikra
+  - Pascal Ackermann
+  - Davide Ballerini
+  - Tobias Lund Andresen
+  - Enrico Zanoncello
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Guillermo Thomas Silva
+  - jersey: De Bolletjes Trui
+    cyclist: Diego Pablo Sevilla
