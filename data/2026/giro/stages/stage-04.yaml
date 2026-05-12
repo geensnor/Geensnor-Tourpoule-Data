@@ -2,11 +2,21 @@
 number: 4
 route: Catanzaro - Cosenza
 type: climb
-date: '2026-05-12'
-status: notStarted
-stageResults: null
+date: "2026-05-12"
+status: finished
+stageResults:
+  - Jhonatan Narváez
+  - Orluis Aular
+  - Giulio Ciccone
+  - Ben Turner
+  - Alessandro Pinarello
+  - Afonso Eulálio
+  - Lennert Van Eetvelt
+  - Diego Ulissi
+  - Andrea Raccagni Noviero
+  - Michael Valgren
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Giulio Ciccone
+  - jersey: De Bolletjes Trui
+    cyclist: Diego Pablo Sevilla
