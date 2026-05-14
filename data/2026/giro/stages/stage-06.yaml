@@ -2,11 +2,21 @@
 number: 6
 route: Paestum - Naples
 type: hills
-date: '2026-05-14'
-status: notStarted
-stageResults: null
+date: "2026-05-14"
+status: finished
+stageResults:
+  - Davide Ballerini
+  - Jasper Stuyven
+  - Paul Magnier
+  - Jensen Plowright
+  - Ben Turner
+  - Alec Segaert
+  - Luca Mozzato
+  - Filippo Magli
+  - Enrico Zanoncello
+  - Casper Van Uden
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Afonso Eulálio
+  - jersey: De Bolletjes Trui
+    cyclist: Diego Pablo Sevilla
