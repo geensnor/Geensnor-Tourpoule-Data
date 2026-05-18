@@ -5,7 +5,7 @@ import ajv from "ajv";
 import ajvFormats from "ajv-formats";
 
 const currentTourData = yaml.load(
-  fs.readFileSync("data/currentTour.yaml", "utf8")
+  fs.readFileSync("data/currentTour.yaml", "utf8"),
 );
 
 test("Validate tour schema", () => {
@@ -17,7 +17,7 @@ test("Validate tour schema", () => {
 
   let tourData = fs.readFileSync(
     "data" + currentTourData.currentTourLocation + "/tourConfig.yaml",
-    "utf8"
+    "utf8",
   );
   let tourDataJSON = yaml.load(tourData);
   expect(validate(tourDataJSON)).toBeTruthy();
@@ -43,8 +43,8 @@ test("Cyclists in the final standing are cyclists in the current tour", () => {
   const cyclistsJSON = yaml.load(
     fs.readFileSync(
       "data" + currentTourData.currentTourLocation + "/cyclists.yaml",
-      "utf8"
-    )
+      "utf8",
+    ),
   );
 
   //Flatten cyclists
@@ -54,14 +54,14 @@ test("Cyclists in the final standing are cyclists in the current tour", () => {
 
   if (
     fs.existsSync(
-      "data" + currentTourData.currentTourLocation + "/finalStanding.yaml"
+      "data" + currentTourData.currentTourLocation + "/finalStanding.yaml",
     )
   ) {
     let finalStandingDataJSON = yaml.load(
       fs.readFileSync(
         "data" + currentTourData.currentTourLocation + "/finalStanding.yaml",
-        "utf8"
-      )
+        "utf8",
+      ),
     );
     if (finalStandingDataJSON) {
       finalStandingDataJSON.finalStanding.forEach((value) => {
@@ -69,4 +69,37 @@ test("Cyclists in the final standing are cyclists in the current tour", () => {
       });
     }
   }
+});
+
+// Check if jerseys in the stages are the same as the ones in the current tour config
+test("Jerseys in stages are the same as in current tour config", () => {
+  const tourConfigJSON = yaml.load(
+    fs.readFileSync(
+      "data" + currentTourData.currentTourLocation + "/tourConfig.yaml",
+      "utf8",
+    ),
+  );
+
+  const jerseys = tourConfigJSON.jerseys;
+  //keys of jerseys object
+  const jerseysConfig = Object.keys(jerseys);
+
+  const currentTourStagesLocation =
+    "data" + currentTourData.currentTourLocation + "/stages/";
+
+  const files = fs
+    .readdirSync(currentTourStagesLocation)
+    .filter((element) => !element.startsWith(".")); //filter hidden files
+
+  files.forEach((file) => {
+    let stageDataJSON = yaml.load(
+      fs.readFileSync(currentTourStagesLocation + file, "utf8"),
+    );
+    const uniqueJerseys = [
+      ...new Set(stageDataJSON.jerseyWearers.map((item) => item.jersey)),
+    ];
+    uniqueJerseys.forEach((jersey) => {
+      expect(jerseysConfig).toContain(jersey);
+    });
+  });
 });
