@@ -2,11 +2,21 @@
 number: 7
 route: Formia - Blockhaus
 type: climb
-date: '2026-05-15'
-status: notStarted
-stageResults: null
+date: "2026-05-15"
+status: finished
+stageResults:
+  - Jonas Vingegaard
+  - Felix Gall
+  - Jai Hindley
+  - Giulio Pellizzari
+  - Ben O'Connor
+  - Mathys Rondel
+  - Giulio Ciccone
+  - Derek Gee-West
+  - Michael Storer
+  - Thymen Arensman
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Afonso Eulálio
+  - jersey: De Bolletjes Trui
+    cyclist: Jonas Vingegaard

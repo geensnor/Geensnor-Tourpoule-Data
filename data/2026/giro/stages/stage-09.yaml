@@ -2,11 +2,21 @@
 number: 9
 route: Cervia - Corno alle Scale
 type: climb
-date: '2026-05-17'
-status: notStarted
-stageResults: null
+date: "2026-05-17"
+status: finished
+stageResults:
+  - Jonas Vingegaard
+  - Felix Gall
+  - Davide Piganzoli
+  - Thymen Arensman
+  - Afonso Eulálio
+  - Derek Gee-West
+  - Mathys Rondel
+  - Sepp Kuss
+  - Jai Hindley
+  - Michael Storer
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Afonso Eulálio
+  - jersey: De Bolletjes Trui
+    cyclist: Jonas Vingegaard

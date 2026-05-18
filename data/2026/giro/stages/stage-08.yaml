@@ -2,11 +2,21 @@
 number: 8
 route: Chieti - Fermo
 type: hills
-date: '2026-05-16'
-status: notStarted
-stageResults: null
+date: "2026-05-16"
+status: finished
+stageResults:
+  - Jhonatan Narváez
+  - Andreas Leknessund
+  - Martin Tjøtta
+  - Guillermo Thomas Silva
+  - Lorenzo Milesi
+  - Christian Scaroni
+  - Corbin Strong
+  - Juan Pedro López
+  - Wout Poels
+  - Markel Beloki
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
-  - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Afonso Eulálio
+  - jersey: De Bolletjes Trui
+    cyclist: Jonas Vingegaard
