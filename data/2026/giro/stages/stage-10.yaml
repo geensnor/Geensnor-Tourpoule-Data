@@ -2,11 +2,21 @@
 number: 10
 route: Viareggio - Massa
 type: time
-date: '2026-05-19'
-status: notStarted
-stageResults: null
+date: "2026-05-19"
+status: finished
+stageResults:
+  - Filippo Ganna
+  - Thymen Arensman
+  - Rémi Cavagna
+  - Sjoerd Bax
+  - Derek Gee-West
+  - Max Walscheid
+  - Johan Price-Pejtersen
+  - Mikkel Bjerg
+  - Lorenzo Milesi
+  - Niklas Larsen
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Afonso Eulálio
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
