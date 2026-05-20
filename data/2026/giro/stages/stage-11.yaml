@@ -2,11 +2,21 @@
 number: 11
 route: Porcari (Paper District) - Chiavari
 type: hills
-date: '2026-05-20'
-status: notStarted
-stageResults: null
+date: "2026-05-20"
+status: finished
+stageResults:
+  - Jhonatan Narváez
+  - Enric Mas
+  - Diego Ulissi
+  - Chris Harper
+  - Aleksandr Vlasov
+  - Christian Scaroni
+  - Ludovico Crescioli
+  - Simone Gualdi
+  - Warren Barguil
+  - Andrea Raccagni Noviero
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Afonso Eulálio
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
