@@ -2,11 +2,21 @@
 number: 12
 route: Imperia - Novi Ligure
 type: hills
-date: '2026-05-21'
-status: notStarted
-stageResults: null
+date: "2026-05-21"
+status: finished
+stageResults:
+  - Alec Segaert
+  - Toon Aerts
+  - Guillermo Thomas Silva
+  - Ethan Vernon
+  - Jasper Stuyven
+  - Orluis Aular
+  - Madis Mihkels
+  - Jhonatan Narváez
+  - Edoardo Zambanini
+  - Sakarias Koller Løland
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Afonso Eulálio
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
