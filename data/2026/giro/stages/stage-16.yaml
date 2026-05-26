@@ -2,11 +2,21 @@
 number: 16
 route: Bellinzona - Carì
 type: climb
-date: '2026-05-26'
-status: notStarted
-stageResults: null
+date: "2026-05-26"
+status: finished
+stageResults:
+  - Jonas Vingegaard
+  - Felix Gall
+  - Jai Hindley
+  - Thymen Arensman
+  - Derek Gee-West
+  - Davide Piganzoli
+  - Egan Bernal
+  - Michael Storer
+  - Mathys Rondel
+  - Wout Poels
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
