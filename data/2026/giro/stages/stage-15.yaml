@@ -2,11 +2,21 @@
 number: 15
 route: Voghera - Milan
 type: flat
-date: '2026-05-24'
-status: notStarted
-stageResults: null
+date: "2026-05-24"
+status: finished
+stageResults:
+  - Fredrik Dversnes Lavik
+  - Mirco Maestri
+  - Martin Marcellusi
+  - Mattia Bais
+  - Paul Magnier
+  - Dylan Groenewegen
+  - Tobias Lund Andresen
+  - Ethan Vernon
+  - Paul Penhoët
+  - Luca Mozzato
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard

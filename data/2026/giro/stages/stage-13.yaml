@@ -2,11 +2,21 @@
 number: 13
 route: Alessandria - Verbania
 type: hills
-date: '2026-05-22'
-status: notStarted
-stageResults: null
+date: "2026-05-22"
+status: finished
+stageResults:
+  - Alberto Bettiol
+  - Andreas Leknessund
+  - Jasper Stuyven
+  - Michael Valgren
+  - Mark Donovan
+  - Josh Kench
+  - Mikkel Bjerg
+  - Francesco Busatto
+  - Markus Hoelgaard
+  - Diego Pablo Sevilla
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Afonso Eulálio
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard

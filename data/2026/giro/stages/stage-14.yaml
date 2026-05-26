@@ -1,12 +1,22 @@
 ---
 number: 14
-route: Aosta - Pila
+route: Aosta - Pila (Gressan)
 type: climb
-date: '2026-05-23'
-status: notStarted
-stageResults: null
+date: "2026-05-23"
+status: finished
+stageResults:
+  - Jonas Vingegaard
+  - Felix Gall
+  - Jai Hindley
+  - Davide Piganzoli
+  - Giulio Pellizzari
+  - Thymen Arensman
+  - Michael Storer
+  - Wout Poels
+  - Jan Hirt
+  - Egan Bernal
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
