@@ -2,11 +2,21 @@
 number: 17
 route: Cassano d'Adda - Andalo
 type: hills
-date: '2026-05-27'
-status: notStarted
-stageResults: null
+date: "2026-05-27"
+status: finished
+stageResults:
+  - Michael Valgren
+  - Andreas Leknessund
+  - Damiano Caruso
+  - Aleksandr Vlasov
+  - Einer Rubio
+  - Igor Arrieta
+  - Gianmarco Garofoli
+  - David De La Cruz
+  - Jhonatan Narváez
+  - Mark Donovan
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard

@@ -2,11 +2,21 @@
 number: 18
 route: Fai della Paganella - Pieve di Soligo
 type: hills
-date: '2026-05-28'
-status: notStarted
-stageResults: null
+date: "2026-05-28"
+status: finished
+stageResults:
+  - Paul Magnier
+  - Edoardo Zambanini
+  - Jonathan Milan
+  - Francesco Busatto
+  - Corbin Strong
+  - Madis Mihkels
+  - Guillermo Thomas Silva
+  - Filippo Magli
+  - Sakarias Koller Løland
+  - Lukáš Kubiš
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
