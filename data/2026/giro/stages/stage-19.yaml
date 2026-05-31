@@ -2,11 +2,21 @@
 number: 19
 route: Feltre - Alleghe (Piani di Pezzè)
 type: climb
-date: '2026-05-29'
-status: notStarted
-stageResults: null
+date: "2026-05-29"
+status: finished
+stageResults:
+  - Sepp Kuss
+  - Derek Gee-West
+  - Giulio Ciccone
+  - Felix Gall
+  - Jonas Vingegaard
+  - Jai Hindley
+  - Damiano Caruso
+  - Davide Piganzoli
+  - Einer Rubio
+  - Michael Storer
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Giulio Ciccone

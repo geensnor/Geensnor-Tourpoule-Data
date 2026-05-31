@@ -2,11 +2,21 @@
 number: 21
 route: Rome - Rome
 type: flat
-date: '2026-05-31'
-status: notStarted
-stageResults: null
+date: "2026-05-31"
+status: finished
+stageResults:
+  - Jonathan Milan
+  - Giovanni Lonardi
+  - Paul Penhoët
+  - Dylan Groenewegen
+  - Madis Mihkels
+  - Tobias Lund Andresen
+  - Jensen Plowright
+  - Corbin Strong
+  - Toon Aerts
+  - Luca Mozzato
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Giulio Ciccone
