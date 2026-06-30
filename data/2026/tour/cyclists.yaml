@@ -1,109 +1,223 @@
 ---
-- teamName: Tudor Pro Cycling Team
+- teamName: UAE Team Emirates - XRG
   cyclists:
-    - Matteo Trentin
-    - Michael Storer
-    - Stefan Küng
-    - Julian Alaphilippe
-- teamName: Uno-X Mobility
+    - Tadej Pogačar
+    - Isaac Del Toro
+    - Tim Wellens
+    - Brandon Mcnulty
+    - Adam Yates
+    - Florian Vermeersch
+    - Nils Politt
+    - Felix Großschartner
+- teamName: Alpecin - Premier Tech
   cyclists:
-    - Magnus Cort
-    - Tobias Halland Johannessen
-    - Andreas Kron
+    - Jasper Philipsen
+    - Mathieu Van Der Poel
+    - Emiel Verstrynge
+    - Jonas Rickaert
+    - Tim Marsman
+    - Ramses Debruyne
+    - Edward Planckaert
+    - Silvan Dillier
+- teamName: Bahrain - Victorious
+  cyclists:
+    - Antonio Tiberi
+    - Lenny Martinez
+    - Matej Mohorič
+    - Phil Bauhaus
+    - Damiano Caruso
+    - Kamil Gradek
+    - Robert Stannard
+    - Vlad Van Mechelen
 - teamName: Decathlon CMA CGM Team
   cyclists:
-    - Daan Hoole
-    - Tiesj Benoot
+    - Paul Seixas
     - Olav Kooij
+    - Matthew Riccitello
+    - Tiesj Benoot
+    - Daan Hoole
+    - Nicolas Prodhomme
+    - Aurélien Paret-Peintre
+    - Cees Bol
+- teamName: EF Education - EasyPost
+  cyclists:
+    - Ben Healy
+    - Kasper Asgreen
+    - Richard Carapaz
+    - Alex Baudin
+    - Sean Quinn
+    - Georg Steinhauser
+    - Max Walker
+    - Michael Valgren
 - teamName: Groupama - FDJ United
   cyclists:
     - Guillaume Martin
-    - David Gaudu
-- teamName: Alpecin-Premier Tech
-  cyclists:
-    - Jasper Philipsen
-- teamName: Bahrain - Victorious
-  cyclists:
-    - Matej Mohorič
-    - Antonio Tiberi
-    - Lenny Martinez
-- teamName: INEOS Grenadiers
+    - Romain Grégoire
+    - Clément Berthet
+    - Clément Braz Afonso
+    - Lorenzo Germani
+    - Quentin Pacher
+    - Clément Russo
+    - Ewen Costiou
+- teamName: Netcompany INEOS
   cyclists:
     - Filippo Ganna
+    - Michał Kwiatkowski
+    - Kévin Vauquelin
+    - Dorian Godon
+    - Thymen Arensman
 - teamName: Lidl - Trek
   cyclists:
-    - Mattias Skjelmose
-    - Mathias Vacek
-    - Mads Pedersen
     - Juan Ayuso
-    - Giulio Ciccone
+    - Mads Pedersen
+    - Mathias Vacek
+    - Mattias Skjelmose
     - Quinn Simmons
+    - Derek Gee-West
+    - Carlos Verona
+    - Toms Skujiņš
 - teamName: Lotto Intermarché
   cyclists:
-    - Lennert Van Eetvelt
     - Arnaud De Lie
+    - Lennert Van Eetvelt
+    - Georg Zimmermann
+    - Huub Artz
+    - Jenno Berckmoes
+    - Liam Slock
+    - Lars Craps
+    - Baptiste Veistroffer
 - teamName: Movistar Team
   cyclists:
-    - Einer Rubio
     - Cian Uijtdebroeks
+    - Raúl García Pierna
+    - Pablo Castrillo
+    - Einer Rubio
+    - Javier Romo
+    - Nelson Oliveira
+    - Jefferson Alveiro Cepeda
+    - Michel Hessmann
+- teamName: NSN Cycling Team
+  cyclists:
+    - Biniam Girmay
+    - Jake Stewart
+    - Lewis Askey
+    - Krists Neilands
+    - Marco Frigo
+    - Matis Louvel
+    - George Bennett
+    - Tom Van Asbroeck
 - teamName: Red Bull - BORA - hansgrohe
   cyclists:
-    - Jan Tratnik
-    - Laurence Pithie
-    - Gianni Moscon
-    - Jordi Meeus
-    - Daniel Felipe Martínez
-    - Jai Hindley
-    - Mick Van Dijke
-    - Florian Lipowitz
+    - Tim Van Dijke
     - Remco Evenepoel
     - Nico Denz
-    - Maxim Van Gils
+    - Florian Lipowitz
     - Mattia Cattaneo
+    - Jan Tratnik
+    - Maxim Van Gils
+    - Jai Hindley
 - teamName: Soudal Quick-Step
   cyclists:
-    - Jasper Stuyven
-    - Tim Merlier
-    - Ilan Van Wilder
-    - Mikel Landa
     - Valentin Paret-Peintre
+    - Tim Merlier
+    - Pascal Eenkhoorn
+    - Jasper Stuyven
+    - Dylan Van Baarle
+    - Bert Van Lerberghe
+    - Ilan Van Wilder
+    - Louis Vervaeke
 - teamName: Team Jayco AlUla
   cyclists:
     - Michael Matthews
     - Luke Plapp
+    - Pascal Ackermann
+    - Ben O'Connor
+    - Mauro Schmid
+    - Kelland O'Brien
+    - Felix Engelhardt
+    - Luke Durbridge
 - teamName: Team Picnic PostNL
   cyclists:
     - Pavel Bittner
-    - Frank Van Den Broek
     - Warren Barguil
+    - Frank Van Den Broek
+    - Robbe Dhondt
+    - Julius Van Den Berg
+    - Niklas Märkl
+    - Frits Biesterbos
+    - John Degenkolb
 - teamName: Team Visma | Lease a Bike
   cyclists:
-    - Jonas Vingegaard
-    - Sepp Kuss
     - Victor Campenaerts
-    - Christophe Laporte
-    - Bruno Armirail
+    - Edoardo Affini
+    - Per Strand Hagenes
     - Matteo Jorgenson
-    - Wout Van Aert
-- teamName: UAE Team Emirates - XRG
+    - Sepp Kuss
+    - Bruno Armirail
+    - Davide Piganzoli
+    - Jonas Vingegaard
+- teamName: Uno-X Mobility
   cyclists:
-    - Tim Wellens
-    - Isaac Del Toro
-    - Tadej Pogačar
-    - Adam Yates
-    - Brandon Mcnulty
-    - Marc Soler
+    - Magnus Cort
+    - Tobias Halland Johannessen
+    - Anders Skaarseth
+    - Søren Wærenskjold
+    - Anthon Charmig
+    - Jonas Abrahamsen
+    - Torstein Træen
+    - Anders Halland Johannessen
 - teamName: XDS Astana Team
   cyclists:
     - Mike Teunissen
-- teamName: EF Education - EasyPost
-  cyclists:
-    - Ben Healy
+    - Sergio Higuita
+    - Harold Tejada
+    - Max Kanter
+    - Nicolas Vinokurov
+    - Davide Ballerini
+    - Aaron Gate
+    - Simone Velasco
 - teamName: Cofidis
   cyclists:
-    - Simon Carr
+    - Piet Allegaert
+    - Jenthe Biermans
     - Milan Fretin
     - Alex Kirsch
+    - Hugo Page
+    - Alex Aranburu
+    - Benjamin Thomas
+    - Ion Izagirre
+- teamName: Tudor Pro Cycling Team
+  cyclists:
+    - Julian Alaphilippe
+    - Matteo Trentin
+    - Michael Storer
+    - Rick Pluimers
+    - Arvid De Kleijn
+    - Marco Haller
+    - Marc Hirschi
+    - Yannis Voisard
 - teamName: TotalEnergies
   cyclists:
     - Jordan Jegat
+    - Alexandre Delettre
+    - Anthony Turgis
+    - Mattéo Vercher
+    - Mathis Le Berre
+    - Nicolas Breuillard
+    - Joris Delbove
+    - Thibault Guernalec
+- teamName: Caja Rural - Seguros RGA
+  cyclists:
+    - Alex Molenaar
+    - Joel Nicolau
+    - Abel Balderstone
+    - Sebastian Berwick
+    - Fernando Gaviria
+    - Stefano Oldani
+    - Jakub Otruba
+    - José Félix Parra
+- teamName: Pinarello Q36.5 Pro Cycling Team
+  cyclists:
+    - Tom Pidcock
+    - Fred Wright
+    - Quinten Hermans
