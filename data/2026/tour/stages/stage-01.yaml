@@ -3,10 +3,20 @@ number: 1
 route: Barcelona - Barcelona
 type: time
 date: "2026-07-04"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Jonas Vingegaard
+  - Filippo Ganna
+  - Tadej Pogačar
+  - Juan Ayuso
+  - Remco Evenepoel
+  - Toro Isaac Del
+  - Davide Piganzoli
+  - Tobias Foss
+  - Florian Lipowitz
+  - Paul Seixas
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
