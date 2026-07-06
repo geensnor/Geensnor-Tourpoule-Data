@@ -3,10 +3,20 @@ number: 2
 route: Tarragona - Barcelona
 type: hills
 date: "2026-07-05"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Isaac Del Toro
+  - Tadej Pogačar
+  - Remco Evenepoel
+  - Jonas Vingegaard
+  - Mattias Skjelmose
+  - Tobias Halland Johannessen
+  - Romain Grégoire
+  - Lenny Martinez
+  - Tom Pidcock
+  - Paul Seixas
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Alex Molenaar
