@@ -3,10 +3,20 @@ number: 3
 route: Granollers - Les Angles
 type: climb
 date: "2026-07-06"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Tadej Pogačar
+  - Jonas Vingegaard
+  - Richard Carapaz
+  - Paul Seixas
+  - Tobias Halland Johannessen
+  - Lennert Van Eetvelt
+  - Florian Lipowitz
+  - Isaac Del Toro
+  - Remco Evenepoel
+  - Juan Ayuso
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Alex Baudin
