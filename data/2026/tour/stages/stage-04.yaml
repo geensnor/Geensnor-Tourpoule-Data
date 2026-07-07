@@ -3,10 +3,20 @@ number: 4
 route: Carcassonne - Foix
 type: hills
 date: "2026-07-07"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Mads Pedersen
+  - Quinn Simmons
+  - Raúl García Pierna
+  - Marco Frigo
+  - Ramses Debruyne
+  - Kévin Vauquelin
+  - Sean Quinn
+  - Torstein Træen
+  - Mathias Vacek
+  - Pablo Castrillo
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Torstein Træen
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Alex Baudin
