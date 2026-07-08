@@ -3,10 +3,20 @@ number: 5
 route: Lannemezan - Pau
 type: flat
 date: "2026-07-08"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Olav Kooij
+  - Max Kanter
+  - Tim Merlier
+  - Huub Artz
+  - Jasper Philipsen
+  - Biniam Girmay
+  - Mads Pedersen
+  - Milan Fretin
+  - Søren Wærenskjold
+  - Anthony Turgis
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Torstein Træen
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Alex Baudin
