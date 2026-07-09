@@ -2,11 +2,21 @@
 number: 6
 route: Pau - Gavarnie-Gèdre
 type: climb
-date: "2026-07-10"
-status: notStarted
-stageResults: null
+date: "2026-07-09"
+status: finished
+stageResults:
+  - Tadej Pogačar
+  - Jonas Vingegaard
+  - Isaac Del Toro
+  - Remco Evenepoel
+  - Paul Seixas
+  - Juan Ayuso
+  - Florian Lipowitz
+  - Mattias Skjelmose
+  - Lenny Martinez
+  - Sepp Kuss
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
