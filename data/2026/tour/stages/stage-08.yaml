@@ -2,11 +2,21 @@
 number: 8
 route: Périgueux - Bergerac
 type: flat
-date: "2026-07-12"
-status: notStarted
-stageResults: null
+date: "2026-07-11"
+status: finished
+stageResults:
+  - Tim Merlier
+  - Biniam Girmay
+  - Olav Kooij
+  - Jasper Philipsen
+  - Pavel Bittner
+  - Rick Pluimers
+  - Pascal Ackermann
+  - Max Kanter
+  - Clément Russo
+  - Milan Fretin
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
