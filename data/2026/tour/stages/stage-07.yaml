@@ -2,11 +2,21 @@
 number: 7
 route: Hagetmau - Bordeaux
 type: flat
-date: "2026-07-11"
-status: notStarted
-stageResults: null
+date: "2026-07-10"
+status: finished
+stageResults:
+  - Tim Merlier
+  - Søren Wærenskjold
+  - Biniam Girmay
+  - Max Kanter
+  - Jasper Philipsen
+  - Phil Bauhaus
+  - Huub Artz
+  - Mads Pedersen
+  - Dorian Godon
+  - Tom Van Asbroeck
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
