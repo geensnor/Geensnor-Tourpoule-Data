@@ -3,10 +3,20 @@ number: 10
 route: Aurillac - Le Lioran
 type: hills
 date: "2026-07-14"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Tadej Pogačar
+  - Remco Evenepoel
+  - Paul Seixas
+  - Florian Lipowitz
+  - Juan Ayuso
+  - Mattias Skjelmose
+  - Jonas Vingegaard
+  - Isaac Del Toro
+  - Lenny Martinez
+  - Tom Pidcock
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
