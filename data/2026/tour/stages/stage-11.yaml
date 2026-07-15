@@ -3,10 +3,20 @@ number: 11
 route: Vichy - Nevers
 type: flat
 date: "2026-07-15"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Søren Wærenskjold
+  - Olav Kooij
+  - Jasper Philipsen
+  - Milan Fretin
+  - Huub Artz
+  - Anthony Turgis
+  - Biniam Girmay
+  - Clément Russo
+  - Fernando Gaviria
+  - Pascal Ackermann
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
