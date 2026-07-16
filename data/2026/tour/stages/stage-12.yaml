@@ -1,12 +1,22 @@
 ---
 number: 12
-route: Circuit de Nevers Magny-Cours - Chalon-sur-Saône
+route: Circuit Nevers Magny-Cours - Chalon-sur-Saône
 type: flat
 date: "2026-07-16"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Tim Merlier
+  - Olav Kooij
+  - Jasper Philipsen
+  - Biniam Girmay
+  - Milan Fretin
+  - Anthony Turgis
+  - Max Kanter
+  - Clément Russo
+  - Mads Pedersen
+  - Huub Artz
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
