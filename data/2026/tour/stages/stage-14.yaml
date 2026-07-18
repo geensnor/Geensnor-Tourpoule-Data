@@ -3,10 +3,20 @@ number: 14
 route: Mulhouse - Le Markstein
 type: climb
 date: "2026-07-18"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Tadej Pogačar
+  - Isaac Del Toro
+  - Paul Seixas
+  - Jonas Vingegaard
+  - Remco Evenepoel
+  - Florian Lipowitz
+  - Juan Ayuso
+  - Richard Carapaz
+  - Tobias Halland Johannessen
+  - Mattias Skjelmose
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
