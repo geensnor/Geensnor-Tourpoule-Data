@@ -3,10 +3,20 @@ number: 15
 route: Champagnole - Plateau de Solaison
 type: climb
 date: "2026-07-19"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Remco Evenepoel
+  - Tadej Pogačar
+  - Isaac Del Toro
+  - Paul Seixas
+  - Florian Lipowitz
+  - Mattias Skjelmose
+  - Lenny Martinez
+  - Juan Ayuso
+  - Adam Yates
+  - Quinn Simmons
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
