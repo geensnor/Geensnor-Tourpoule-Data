@@ -1,12 +1,22 @@
 ---
 number: 16
-route: Évian Les-Bains - Thonon Les-Bains
+route: Évian-les-Bains - Thonon-les-Bains
 type: time
 date: "2026-07-21"
-status: notStarted
-stageResults: null
+status: finished
+stageResults:
+  - Remco Evenepoel
+  - Tadej Pogačar
+  - Mattias Skjelmose
+  - Paul Seixas
+  - Isaac Del Toro
+  - Mattia Cattaneo
+  - Thymen Arensman
+  - Pablo Castrillo
+  - Bruno Armirail
+  - Joshua Tarling
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogačar
